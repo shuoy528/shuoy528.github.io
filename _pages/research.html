@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Published Papers"
+title: "Research"
 permalink: /research/
-category: published
+category: research
 ---
 
-{% for post in site.publications reversed %}
-  {% if post.category == "published" %}
-    {% include archive-single.html %}
-  {% endif %}
+{% include base_path %}
+
+{% for post in site.research reversed %}
+  {% include archive-single-teaching.html %}
 {% endfor %}
