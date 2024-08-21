@@ -16,8 +16,7 @@ Yu, Shuo*, Nicola Falco, Nivedita Patel, Yuxin Wu, and Haruko Wainwright. "**Div
 
 ## Working Papers
 
-**Short-Term Impact of the Trade War on U.S. Agricultural Commodities Futures Prices** \[_Draft upon request_\]
-
+**Short-Term Impact of the Trade War on U.S. Agricultural Commodities Futures Prices** \[_Draft upon request_\]  
 _Abstract_: This study investigates the short-run effects of the U.S.-China trade war on U.S. agricultural futures
 prices, focusing on five primary commodities: soybeans, corn, wheat, rice, and oats. Initiated in early 2018 by
 President Trump, the trade war resulted in substantial tariffs imposed by both countries, severely impacting
@@ -32,22 +31,17 @@ that such payments would not further distort the market.
 
 ## Work in Progress
 
-**Designing Insurance under Climate Change**
-
+**Designing Insurance under Climate Change**  
 with [Francis Annan](https://sites.google.com/site/fannan2316/) and [Sagar Saxena](https://www.sagarsxn.com/) \[_Model development stage_\]
 
-**Optimal SWD Management in Michigan and North Carolina Blueberry: A Dynamic Structural Model with Unobserved Heterogeneity**
-
+**Optimal SWD Management in Michigan and North Carolina Blueberry: A Dynamic Structural Model with Unobserved Heterogeneity**  
 with [Miguel I. Gómez](http://gomez.dyson.cornell.edu/), [Philip Fanning](https://sbe.umaine.edu/philip-fanning/), [Rufus Isaacs](https://www.canr.msu.edu/people/rufus_isaacs), [Sergio Puerto Gonzalez](https://www.sergiopuerto.com/), and [C.-Y. Cynthia Lin Lawell](https://clinlawell.dyson.cornell.edu/). \[_Model development stage_\]
 
-**Sitting Solar on Farms**
-
+**Sitting Solar on Farms**  
 with [Sara Johns](https://are.berkeley.edu/user/13859) \[_Data Analysis stage_\]
 
-**Paying Smallholder Farmers to Increase Carbon Sequestration by Changing Agricultural Practices: Evidence from Odisha**
-
+**Paying Smallholder Farmers to Increase Carbon Sequestration by Changing Agricultural Practices: Evidence from Odisha**  
 with [Aprajit Mahajan](https://are.berkeley.edu/~aprajit/) and [Sayantan Mitra](https://sites.google.com/view/sunnymitra/). \[_piloting completed, full RCT to start in 2025_\]
 
-**Harmonizing Soil Carbon Science and Policy to Meet Climate Goals**
-
+**Harmonizing Soil Carbon Science and Policy to Meet Climate Goals**  
 with Pranjal Dwivedi, Micah Elias, Allegra Mayer, Charlotte Kwong, Anna Abramova, Tyler Anthony, Tibisay Perez, Vrashabh Kapate, Sangcheol Moon, Jacqueline Gerson, and Whendee Silver. \[_Writing stage_\]
