@@ -1,13 +1,22 @@
 ---
-title: "Work in Progress"
-collection: research
-permalink: /research/2_WorkInProgress
+title: "Research"
+layout: single
+permalink: /research/
 ---
+
+## Job Market Paper
+
+## Publications
+
+## Working Papers
+
+
+
+## Work in Progress
 
 **Designing Insurance under Climate Change**
 
 with [Francis Annan](https://sites.google.com/site/fannan2316/) and [Sagar Saxena](https://www.sagarsxn.com/) \[_Model development stage_\]
-
 
 **Optimal SWD Management in Michigan and North Carolina Blueberry: A Dynamic Structural Model with Unobserved Heterogeneity**
 
