@@ -4,7 +4,7 @@ collection: teaching
 type:
 permalink: /teaching/2_Mentoring
 venue: "UC Berkeley"
-date: "1970-01-01"
+date: null
 location:
 ---
 
