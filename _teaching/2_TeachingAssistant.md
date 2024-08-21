@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/1_TeachingAssistant
 venue: "UC Berkeley, Department of Agricultural & Resource Economics"
-date: "1970-01-01"
+date: null
 location:
 ---
 
