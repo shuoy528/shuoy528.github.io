@@ -12,7 +12,7 @@ _Abstract_:
 
 ## Publications
 
-Yu, Shuo*, Nicola Falco, Nivedita Patel, Yuxin Wu, and Haruko Wainwright. "**Diverging climate response of corn yield and carbon use efficiency across the US.**" Environmental Research Letters 18, no. 6 (2023): 064049.
+Yu, Shuo*, Nicola Falco, Nivedita Patel, Yuxin Wu, and Haruko Wainwright. "Diverging climate response of corn yield and carbon use efficiency across the US." Environmental Research Letters 18, no. 6 (2023): 064049. [`link`]()
 
 ## Working Papers
 
@@ -48,4 +48,4 @@ with Pranjal Dwivedi, Micah Elias, Allegra Mayer, Charlotte Kwong, Anna Abramova
 
 ## Other Writings
 
-Yu, Shuo, Haruko Murakami Wainwright, Benjamin Runkle, Colby Reavis, Michele L. Reba, and Nicola Falco. "Quantifying ET and Carbon Fluxes at Crop Scale by Integrating AmeriFlux and Remote Sensing Data." In AGU Fall Meeting Abstracts, vol. 2020, pp. GC119-0010. 2020. `link`
+Yu, Shuo, Haruko Murakami Wainwright, Benjamin Runkle, Colby Reavis, Michele L. Reba, and Nicola Falco. "Quantifying ET and Carbon Fluxes at Crop Scale by Integrating AmeriFlux and Remote Sensing Data." In AGU Fall Meeting Abstracts, vol. 2020, pp. GC119-0010. 2020. [`link`](https://ui.adsabs.harvard.edu/abs/2020AGUFMGC1190010Y/abstract)
