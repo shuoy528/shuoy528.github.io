@@ -3,7 +3,6 @@ title: "Work in Progress"
 collection: research
 permalink: /research/2_WorkInProgress
 ---
-
 - **Designing Insurance under Climate Change**, with [Francis Annan](https://sites.google.com/site/fannan2316/) and [Sagar Saxena](https://www.sagarsxn.com/) \[_Model development stage_\]
 
 - **Optimal SWD Management in Michigan and North Carolina Blueberry: A Dynamic Structural Model with Unobserved Heterogeneity**, with [Miguel I. Gómez](http://gomez.dyson.cornell.edu/), [Philip Fanning](https://sbe.umaine.edu/philip-fanning/), [Rufus Isaacs](https://www.canr.msu.edu/people/rufus_isaacs), [Sergio Puerto Gonzalez](https://www.sergiopuerto.com/), and [C.-Y. Cynthia Lin Lawell](https://clinlawell.dyson.cornell.edu/). \[_Model development stage_\]
