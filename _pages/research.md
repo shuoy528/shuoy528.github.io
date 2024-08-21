@@ -45,3 +45,7 @@ with [Aprajit Mahajan](https://are.berkeley.edu/~aprajit/) and [Sayantan Mitra](
 
 **Harmonizing Soil Carbon Science and Policy to Meet Climate Goals**  
 with Pranjal Dwivedi, Micah Elias, Allegra Mayer, Charlotte Kwong, Anna Abramova, Tyler Anthony, Tibisay Perez, Vrashabh Kapate, Sangcheol Moon, Jacqueline Gerson, and Whendee Silver. \[_Writing stage_\]
+
+## Other Writings
+
+Yu, Shuo, Haruko Murakami Wainwright, Benjamin Runkle, Colby Reavis, Michele L. Reba, and Nicola Falco. "Quantifying ET and Carbon Fluxes at Crop Scale by Integrating AmeriFlux and Remote Sensing Data." In AGU Fall Meeting Abstracts, vol. 2020, pp. GC119-0010. 2020. `link`
