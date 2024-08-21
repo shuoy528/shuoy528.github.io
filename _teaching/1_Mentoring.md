@@ -1,10 +1,10 @@
 ---
 title: "Mentoring"
 collection: teaching
-type:
+type: "Undergraduate research mentoring"
 permalink: /teaching/2_Mentoring
 venue: "UC Berkeley"
-date: "1970-01-01"
+date: null
 location:
 ---
 - [Energy and Environmental Economics Mentoring Program](https://www.olab.berkeley.edu/energyinstitute-sloan), Opportunity Lab and Energy Institute at Haas School of Business, UC Berkeley, 2024-2025.
