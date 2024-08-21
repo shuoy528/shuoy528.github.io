@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/1_TeachingAssistant
 venue: "UC Berkeley, Department of Agricultural & Resource Economics"
-date: null
+date: ""
 location:
 ---
 ### Introductory Applied Econometrics (EEP/IAS 118) - Fall 2023
