@@ -48,4 +48,4 @@ with Pranjal Dwivedi, Micah Elias, Allegra Mayer, Charlotte Kwong, Anna Abramova
 
 ## Other Writings
 
-Yu, Shuo, Haruko Murakami Wainwright, Benjamin Runkle, Colby Reavis, Michele L. Reba, and Nicola Falco. "Quantifying ET and Carbon Fluxes at Crop Scale by Integrating AmeriFlux and Remote Sensing Data." In AGU Fall Meeting Abstracts, vol. 2020, pp. GC119-0010. 2020. [`link`](https://ui.adsabs.harvard.edu/abs/2020AGUFMGC1190010Y/abstract)
+Yu, Shuo, Haruko Murakami Wainwright, Benjamin Runkle, Colby Reavis, Michele L. Reba, and Nicola Falco. "Quantifying ET and Carbon Fluxes at Crop Scale by Integrating AmeriFlux and Remote Sensing Data." In AGU Fall Meeting Abstracts, vol. 2020, pp. GC119-0010. 2020. [\[link\]](https://ui.adsabs.harvard.edu/abs/2020AGUFMGC1190010Y/abstract)
