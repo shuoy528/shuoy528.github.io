@@ -39,22 +39,11 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          {% if post.date != "1970-01-01" and post.date != "1900-01-01" %}
+          {% if post.date %}
             <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
           {% else %}
             <p>{{ post.type }}, <i>{{ post.venue }}</i></p>
           {% endif %}
-        {% elsif post.collection == 'publications' %}
-          {% if post.date != "1970-01-01" and post.date != "1900-01-01" %}
-            <p>Published in <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
-          {% else %}
-            <p>Published in <i>{{ post.venue }}</i></p>
-          {% endif %}
-        {% elsif post.date and post.date != "1970-01-01" and post.date != "1900-01-01" %}
-          <p class="page__date">
-            <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong>
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
-          </p>
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
