@@ -10,7 +10,7 @@ permalink: /research/
 
 ## Publications
 
-
+Yu, Shuo*, Nicola Falco, Nivedita Patel, Yuxin Wu, and Haruko Wainwright. "**Diverging climate response of corn yield and carbon use efficiency across the US.**" Environmental Research Letters 18, no. 6 (2023): 064049.
 
 ## Working Papers
 
