@@ -40,9 +40,9 @@
 
         {% if post.collection == 'teaching' %}
           {% if post.date %}
-            <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
+            <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
           {% else %}
-            <p>{{ post.type }}, <i>{{ post.venue }}</i></p>
+            <i>{{ post.venue }}</i></p>
           {% endif %}
         {% endif %}
 
