@@ -6,6 +6,7 @@ permalink: /teaching/1_TeachingAssistant
 venue: "UC Berkeley, Department of Agricultural & Resource Economics"
 location:
 ---
+
 - **Introductory Applied Econometrics (EEP/IAS 118)** - Fall 2023
   
   [Syllabus](https://github.com/shuoy528/shuoyu.github.io/files/EEP118_syllabus.pdf) \| Discussion Section Notes (available upon request)
