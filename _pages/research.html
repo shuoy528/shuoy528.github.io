@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Published Papers"
+permalink: /research/
+category: published
+---
+
+{% for post in site.publications reversed %}
+  {% if post.category == "published" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
