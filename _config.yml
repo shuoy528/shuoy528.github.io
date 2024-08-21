@@ -25,7 +25,7 @@ repository               : "shuoy528/shuoyu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.png"
+  avatar           : "ShuoYu.png"
   name             : "Shuo Yu"
   pronouns         : # example: "she/her"  
   bio              : "I am a Ph.D. candidate in Agricultural and Resource Economics at the University of California, Berkeley. My research interests focus on Agricultural Economics, Environmental Economics, and Applied Industrial Organization."
