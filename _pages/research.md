@@ -12,8 +12,8 @@ permalink: /research/
 
 **Short-Term Impact of the Trade War on U.S. Agricultural Commodities Futures Prices** \[_Draft upon request_\]
 
-<button class="abstract-button" onclick="toggleAbstract()">&#9654; Abstract</button>
-<div id="abstractContent" class="abstract-content" style="display: none;">
+<button class="abstract-button" onclick="toggleAbstract('abstractContent1', this)">&#9654; Abstract</button>
+<div id="abstractContent1" class="abstract-content" style="display: none;">
 This study investigates the short-run effects of the U.S.-China trade war on U.S. agricultural futures
 prices, focusing on five primary commodities: soybeans, corn, wheat, rice, and oats. Initiated in early 2018 by
 President Trump, the trade war resulted in substantial tariffs imposed by both countries, severely impacting
@@ -31,8 +31,8 @@ that such payments would not further distort the market.
 
 Yu, Shuo*, Nicola Falco, Nivedita Patel, Yuxin Wu, and Haruko Wainwright. "**Diverging climate response of corn yield and carbon use efficiency across the US.**" Environmental Research Letters 18, no. 6 (2023): 064049. [`Journal Version`](http://shuoyu.github.io/files/Yu_2023_Environ._Res._Lett._18_064049.pdf) [`Replication`](https://github.com/shuoy528/erl-div-clim-resp)
 
-<button class="abstract-button" onclick="toggleAbstract()">&#9654; Abstract</button>
-<div id="abstractContent" class="abstract-content" style="display: none;">
+<button class="abstract-button" onclick="toggleAbstract('abstractContent2', this)">&#9654; Abstract</button>
+<div id="abstractContent2" class="abstract-content" style="display: none;">
 In this paper, we developed an open-source package to analyze the overall trend and responses of
 both carbon use efficiency (CUE) and corn yield to climate factors for the contiguous United
 States. Our algorithm enables the automatic retrieval of remote sensing data through Google Earth
@@ -62,8 +62,8 @@ with [Francis Annan](https://sites.google.com/site/fannan2316/) and [Sagar Saxen
 **Optimal SWD Management in Michigan and North Carolina Blueberry: A Dynamic Structural Model with Unobserved Heterogeneity**  
 with [Miguel I. Gómez](http://gomez.dyson.cornell.edu/), [Philip Fanning](https://sbe.umaine.edu/philip-fanning/), [Rufus Isaacs](https://www.canr.msu.edu/people/rufus_isaacs), [Sergio Puerto Gonzalez](https://www.sergiopuerto.com/), and [C.-Y. Cynthia Lin Lawell](https://clinlawell.dyson.cornell.edu/). \[_Model development stage_\]
 
-<button class="abstract-button" onclick="toggleAbstract()">&#9654; Abstract</button>
-<div id="abstractContent" class="abstract-content" style="display: none;">
+<button class="abstract-button" onclick="toggleAbstract('abstractContent3', this)">&#9654; Abstract</button>
+<div id="abstractContent3" class="abstract-content" style="display: none;">
 This paper analyzes the management strategies employed by Michigan highbush blueberry growers to combat Spotted Wing Drosophila (SWD), an invasive vinegar fly originating from East Asia that poses a significant threat to fruit crops. A dynamic structural econometric model is developed to study growers' decisions related to fly and larva monitoring as well as insecticide application. The model is applied to a comprehensive dataset comprising daily decision records of blueberry growers in Michigan. The findings provide insights into the effectiveness of various management strategies and their implications for economic outcomes in the agricultural sector.
 </div>
 
@@ -73,8 +73,8 @@ with [Sara Johns](https://are.berkeley.edu/user/13859) \[_Data Analysis stage_\]
 **Paying Smallholder Farmers to Increase Carbon Sequestration by Changing Agricultural Practices: Evidence from Odisha**  
 with [Aprajit Mahajan](https://are.berkeley.edu/~aprajit/) and [Sayantan Mitra](https://sites.google.com/view/sunnymitra/). \[_piloting completed, full RCT to start in 2025_\]
 
-<button class="abstract-button" onclick="toggleAbstract()">&#9654; Abstract</button>
-<div id="abstractContent" class="abstract-content" style="display: none;">
+<button class="abstract-button" onclick="toggleAbstract('abstractContent4', this)">&#9654; Abstract</button>
+<div id="abstractContent4" class="abstract-content" style="display: none;">
 This project incentivizes smallholder farmers in rural India to adopt agricultural practices that improve soil carbon sequestration. We carry out a full RCT that pays farmers as a function of measured improvements in soil organic content in a context with liquidity constraints. The RCT lays the groundwork for developing a larger-scale program that links small farmers to commercial firms providing carbon credits. The project will also explore the potential of satellite data to validate the adoption and impact of regenerative agricultural practices, which will be essential for any scale-up.
 </div>
 
@@ -85,14 +85,14 @@ with Pranjal Dwivedi, Micah Elias, Allegra Mayer, Charlotte Kwong, Anna Abramova
 
 Yu, Shuo, Haruko Murakami Wainwright, Benjamin Runkle, Colby Reavis, Michele L. Reba, and Nicola Falco. "Quantifying ET and Carbon Fluxes at Crop Scale by Integrating AmeriFlux and Remote Sensing Data." In AGU Fall Meeting Abstracts, vol. 2020, pp. GC119-0010. 2020. [`link`](https://ui.adsabs.harvard.edu/abs/2020AGUFMGC1190010Y/abstract)
 
-<button class="abstract-button" onclick="toggleAbstract()">&#9654; Abstract</button>
-<div id="abstractContent" class="abstract-content" style="display: none;">
+<button class="abstract-button" onclick="toggleAbstract('abstractContent5', this)">&#9654; Abstract</button>
+<div id="abstractContent5" class="abstract-content" style="display: none;">
 A practical and reliable way to estimate field-scale evapotranspiration (ET) and CO2 fluxes can significantly help with the optimization of water use and other sustainable practices in precision agriculture and ecosystem restoration. AmeriFlux is a "Big Data" framework updated through a tower-network that provides ecosystem measurements including water, greenhouse gas (GHG) and energy fluxes. Its sites are located in North, Central and South America, but they are limited to one or a few points in the region. The main focus of our research is to develop an effective and wide-ranging methodology for field-scale hydrological and carbon flux estimations based on the integration of AmeriFlux data and satellite images. The AmeriFlux data we use cover a pair of commercially farmed, adjacent rice fields located in Lonoke County, Arkansas for the period 2016-2018. We first illustrate that there is significant and numerically large correlation between the ET measurements and CO2 fluxes made at the AmeriFlux sites and land surface products derived from satellite remotely sensed data (normalized difference vegetation index (NDVI), air temperature, precipitation, and surface pressure) derived by Landsat-8 and Sentinel-2 sensors. Linear regression and random forest models were then developed for predictions. We will explore the spatial and temporal pattern of the data in the future analysis, as well as integrate with local high resolution geophysical data to better understand the effect of the soil spatial heterogeneity, which is known to impact plant development. We envision that the integration of such methodology with eco-hydrological models will enable capabilities to better estimate water use efficiency and carbon storage potential at the field-scale.
 </div>
 
 <script>
-    function toggleAbstract() {
-        var abstractContent = document.getElementById("abstractContent");
+    function toggleAbstract(abstractId, button) {
+        var abstractContent = document.getElementById(abstractId);
         var button = document.querySelector(".abstract-button");
         if (abstractContent.style.display === "none" || abstractContent.style.display === "") {
             abstractContent.style.display = "block";
