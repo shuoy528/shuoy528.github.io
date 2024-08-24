@@ -122,7 +122,7 @@ A practical and reliable way to estimate field-scale evapotranspiration (ET) and
     
     .abstract-content {
         display: none;
-        margin-bottom: 1rem; /* Ensure space after abstract content */
+        margin-bottom: 1.5rem; /* Ensure space after abstract content */
         font-size: 1rem;
     }
 </style>
