@@ -12,7 +12,7 @@ title                    : "Shuo's Homepage"
 title_separator          : "-"
 name                     : &name "Shuo Yu"
 description              : &description "Ph.D. candidate in Agricultural and Resource Economics"
-url                      : http://shuoy528.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+URL                      : "https://shuoy528.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/shuoyu" # the subpath of your site, e.g. "/blog"
 repository               : "shuoy528/shuoyu"
 
