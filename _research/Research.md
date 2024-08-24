@@ -1,16 +1,12 @@
 ---
 title: "Research"
 layout: single
-permalink: /research/
+permalink: /research/Research
 ---
 
 ## Job Market Paper
 
 **Payments for Ecosystem Services and Water Quality in the Midwest U.S.** \[_Draft forthcoming_\]
-
-## Publications
-
-Yu, Shuo*, Nicola Falco, Nivedita Patel, Yuxin Wu, and Haruko Wainwright. "**Diverging climate response of corn yield and carbon use efficiency across the US.**" Environmental Research Letters 18, no. 6 (2023): 064049. [`Journal Version`](http://shuoyu.github.io/files/Yu_2023_Environ._Res._Lett._18_064049.pdf) [`Replication`](https://github.com/shuoy528/erl-div-clim-resp)
 
 ## Working Papers
 
@@ -26,6 +22,10 @@ a 25% Chinese tariff on U.S. soybeans led to a significant decrease in soybean a
 highlighting the severe short-term impacts of trade barriers on agricultural markets. Additionally, the analysis
 reveals that the massive trade aid payments had mixed effects on futures prices, challenging the assumption
 that such payments would not further distort the market.
+
+## Publications
+
+Yu, Shuo*, Nicola Falco, Nivedita Patel, Yuxin Wu, and Haruko Wainwright. "**Diverging climate response of corn yield and carbon use efficiency across the US.**" Environmental Research Letters 18, no. 6 (2023): 064049. [`Journal Version`](http://shuoyu.github.io/files/Yu_2023_Environ._Res._Lett._18_064049.pdf) [`Replication`](https://github.com/shuoy528/erl-div-clim-resp)
 
 ## Work in Progress
 
