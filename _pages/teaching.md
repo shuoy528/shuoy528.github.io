@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Teaching"
 layout: single
 permalink: /Teaching/
 ---
