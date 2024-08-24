@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 layout: single
-permalink: /Teaching/
+permalink: /teaching/
 ---
 
 ## Teaching Assistant
