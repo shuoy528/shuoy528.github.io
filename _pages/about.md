@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome! I'm Shuo."
+title: "Welcome! I am Shuo."
 author_profile: true
 redirect_from: 
   - /about/
