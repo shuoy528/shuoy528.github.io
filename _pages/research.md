@@ -65,3 +65,20 @@ Yu, Shuo, Haruko Murakami Wainwright, Benjamin Runkle, Colby Reavis, Michele L. 
         }
     }
 </script>
+
+<style>
+    .abstract-button {
+        background: none;
+        border: none;
+        color: #333; /* Adjust the color to match your text */
+        cursor: pointer;
+        font-size: 1rem;
+        padding: 0;
+        text-align: left;
+        display: inline;
+    }
+
+    .abstract-button:hover {
+        text-decoration: underline; /* Optional: add underline on hover */
+    }
+</style>
