@@ -13,8 +13,7 @@ permalink: /research/
 **Short-Term Impact of the Trade War on U.S. Agricultural Commodities Futures Prices** \[_Draft upon request_\]
 
 <button class="abstract-button" onclick="toggleAbstract()">&#9654; Abstract</button>
-
-<div id="abstractContent" class="abstract-content">
+<div id="abstractContent" class="abstract-content" style="display: none;">
 This study investigates the short-run effects of the U.S.-China trade war on U.S. agricultural futures
 prices, focusing on five primary commodities: soybeans, corn, wheat, rice, and oats. Initiated in early 2018 by
 President Trump, the trade war resulted in substantial tariffs imposed by both countries, severely impacting
