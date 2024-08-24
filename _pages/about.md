@@ -11,4 +11,4 @@ I am a Ph.D. candidate in Agricultural and Resource Economics at the University 
 
 My research focuses on regenerative agriculture and agricultural policy, exploring their impacts on environmental sustainability, climate change adaptation, and mitigation. These studies are innovative in combining economic and econometric models with data generated from remote sensing and machine learning techniques.
 
-You can find my CV [here](https://github.com/shuoy528/shuoyu.github.io/files/CV_ShuoYu.pdf).
+You can find my CV [here](/files/CV_ShuoYu.pdf).
