@@ -64,7 +64,7 @@ with [Miguel I. Gómez](http://gomez.dyson.cornell.edu/), [Philip Fanning](https
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent3', this)">&#9654; Abstract</button>
 <div id="abstractContent3" class="abstract-content" style="display: none;">
-This paper analyzes the management strategies employed by Michigan highbush blueberry growers to combat Spotted Wing Drosophila (SWD), an invasive vinegar fly originating from East Asia that poses a significant threat to fruit crops. A dynamic structural econometric model is developed to study growers' decisions related to fly and larva monitoring as well as insecticide application. The model is applied to a comprehensive dataset comprising daily decision records of blueberry growers in Michigan. The findings provide insights into the effectiveness of various management strategies and their implications for economic outcomes in the agricultural sector.//
+This paper analyzes the management strategies employed by Michigan highbush blueberry growers to combat Spotted Wing Drosophila (SWD), an invasive vinegar fly originating from East Asia that poses a significant threat to fruit crops. A dynamic structural econometric model is developed to study growers' decisions related to fly and larva monitoring as well as insecticide application. The model is applied to a comprehensive dataset comprising daily decision records of blueberry growers in Michigan. The findings provide insights into the effectiveness of various management strategies and their implications for economic outcomes in the agricultural sector.\\
 </div>
 
 **Sitting Solar on Farms**  
