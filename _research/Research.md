@@ -36,10 +36,10 @@ with [Francis Annan](https://sites.google.com/site/fannan2316/) and [Sagar Saxen
 with [Miguel I. Gómez](http://gomez.dyson.cornell.edu/), [Philip Fanning](https://sbe.umaine.edu/philip-fanning/), [Rufus Isaacs](https://www.canr.msu.edu/people/rufus_isaacs), [Sergio Puerto Gonzalez](https://www.sergiopuerto.com/), and [C.-Y. Cynthia Lin Lawell](https://clinlawell.dyson.cornell.edu/). [`Master's Thesis Version`](https://github.com/shuoy528/shuoyu/raw/master/files/Yu_cornell_0058O_10730.pdf) \[_Model development stage_\]
 
 **Sitting Solar on Farms**  
-with [Sara Johns](https://are.berkeley.edu/user/13859) \[_Data Analysis stage_\]
+with [Sara Johns](https://are.berkeley.edu/user/13859) \[_Data analysis stage_\]
 
 **Paying Smallholder Farmers to Increase Carbon Sequestration by Changing Agricultural Practices: Evidence from Odisha**  
-with [Aprajit Mahajan](https://are.berkeley.edu/~aprajit/) and [Sayantan Mitra](https://sites.google.com/view/sunnymitra/). \[_piloting completed, full RCT to start in 2025_\]
+with [Aprajit Mahajan](https://are.berkeley.edu/~aprajit/) and [Sayantan Mitra](https://sites.google.com/view/sunnymitra/). \[_Piloting completed, full RCT to start in 2025_\]
 
 **Cover Crop Detection in the Midwest with Satellite Data**
 with [Kangogo Sogomo](https://kangogosogomo.com/), [Yanghui Kang](https://yanghuikang.github.io/), [Lawson Connor](https://agribusiness.uark.edu/directory/index/uid/lconnor/name/Lawson+Connor/), [Brookie Guzder-Williams](https://dse.berkeley.edu/people/brookie-guzder-williams), and [Timothy Bowles](https://ourenvironment.berkeley.edu/people/bowles). \[_Model development stage_\]
