@@ -41,6 +41,9 @@ with [Sara Johns](https://are.berkeley.edu/user/13859) \[_Data Analysis stage_\]
 **Paying Smallholder Farmers to Increase Carbon Sequestration by Changing Agricultural Practices: Evidence from Odisha**  
 with [Aprajit Mahajan](https://are.berkeley.edu/~aprajit/) and [Sayantan Mitra](https://sites.google.com/view/sunnymitra/). \[_piloting completed, full RCT to start in 2025_\]
 
+**Cover Crop Detection in the Midwest with Satellite Data**
+with [Kangogo Sogomo](https://kangogosogomo.com/), [Yanghui Kang](https://yanghuikang.github.io/), [Lawson Connor](https://agribusiness.uark.edu/directory/index/uid/lconnor/name/Lawson+Connor/), [Brookie Guzder-Williams](https://dse.berkeley.edu/people/brookie-guzder-williams), and [Timothy Bowles](https://ourenvironment.berkeley.edu/people/bowles). \[_Model development stage_\]
+
 **Harmonizing Soil Carbon Science and Policy to Meet Climate Goals**  
 with Pranjal Dwivedi, Micah Elias, Allegra Mayer, Charlotte Kwong, Anna Abramova, Tyler Anthony, Tibisay Perez, Vrashabh Kapate, Sangcheol Moon, Jacqueline Gerson, and Whendee Silver. \[_Writing stage_\]
 
