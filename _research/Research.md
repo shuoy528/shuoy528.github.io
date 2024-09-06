@@ -25,7 +25,7 @@ that such payments would not further distort the market.
 
 ## Publications
 
-Yu, Shuo*, Nicola Falco, Nivedita Patel, Yuxin Wu, and Haruko Wainwright. "**Diverging climate response of corn yield and carbon use efficiency across the US.**" Environmental Research Letters 18, no. 6 (2023): 064049. [`Journal Version`]([http://shuoyu.github.io/files/](https://github.com/shuoy528/shuoyu/files/Yu_2023_Environ._Res._Lett._18_064049.pdf) [`Replication`](https://github.com/shuoy528/erl-div-clim-resp)
+Yu, Shuo*, Nicola Falco, Nivedita Patel, Yuxin Wu, and Haruko Wainwright. "**Diverging climate response of corn yield and carbon use efficiency across the US.**" Environmental Research Letters 18, no. 6 (2023): 064049. [`Journal Version`](https://github.com/shuoy528/shuoyu/raw/master/files/Yu_2023_Environ._Res._Lett._18_064049.pdf) [`Replication`](https://github.com/shuoy528/erl-div-clim-resp)
 
 ## Work in Progress
 
@@ -33,7 +33,7 @@ Yu, Shuo*, Nicola Falco, Nivedita Patel, Yuxin Wu, and Haruko Wainwright. "**Div
 with [Francis Annan](https://sites.google.com/site/fannan2316/) and [Sagar Saxena](https://www.sagarsxn.com/) \[_Model development stage_\]
 
 **Optimal SWD Management in Michigan and North Carolina Blueberry: A Dynamic Structural Model with Unobserved Heterogeneity**  
-with [Miguel I. Gómez](http://gomez.dyson.cornell.edu/), [Philip Fanning](https://sbe.umaine.edu/philip-fanning/), [Rufus Isaacs](https://www.canr.msu.edu/people/rufus_isaacs), [Sergio Puerto Gonzalez](https://www.sergiopuerto.com/), and [C.-Y. Cynthia Lin Lawell](https://clinlawell.dyson.cornell.edu/). \[_Model development stage_\] [`Master Thesis Version`](https://github.com/shuoy528/shuoyu/files/Yu_cornell_0058O_10730.pdf)
+with [Miguel I. Gómez](http://gomez.dyson.cornell.edu/), [Philip Fanning](https://sbe.umaine.edu/philip-fanning/), [Rufus Isaacs](https://www.canr.msu.edu/people/rufus_isaacs), [Sergio Puerto Gonzalez](https://www.sergiopuerto.com/), and [C.-Y. Cynthia Lin Lawell](https://clinlawell.dyson.cornell.edu/). \[_Model development stage_\] [`Master Thesis Version`](https://github.com/shuoy528/shuoyu/raw/master/files/Yu_cornell_0058O_10730.pdf)
 
 **Sitting Solar on Farms**  
 with [Sara Johns](https://are.berkeley.edu/user/13859) \[_Data Analysis stage_\]
