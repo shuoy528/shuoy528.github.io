@@ -29,7 +29,7 @@ that such payments would not further distort the market.
 
 ## Publications
 
-Yu, Shuo*, Nicola Falco, Nivedita Patel, Yuxin Wu, and Haruko Wainwright. "**Diverging climate response of corn yield and carbon use efficiency across the US.**" Environmental Research Letters 18, no. 6 (2023): 064049. [`Journal Version`](http://shuoyu.github.io/files/Yu_2023_Environ._Res._Lett._18_064049.pdf) [`Replication`](https://github.com/shuoy528/erl-div-clim-resp)
+Yu, Shuo*, Nicola Falco, Nivedita Patel, Yuxin Wu, and Haruko Wainwright. "**Diverging climate response of corn yield and carbon use efficiency across the US.**" Environmental Research Letters 18, no. 6 (2023): 064049. [`Journal Version`](https://github.com/shuoy528/shuoyu/raw/master/files/Yu_2023_Environ._Res._Lett._18_064049.pdf) [`Replication`](https://github.com/shuoy528/erl-div-clim-resp)
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent2', this)">▶ Abstract</button>
 <div id="abstractContent2" class="abstract-content" style="display: none;">
@@ -60,7 +60,7 @@ of the country, despite the possibility of yield remaining stable or increasing.
 with [Francis Annan](https://sites.google.com/site/fannan2316/) and [Sagar Saxena](https://www.sagarsxn.com/) \[_Model development stage_\]
 
 **Optimal SWD Management in Michigan and North Carolina Blueberry: A Dynamic Structural Model with Unobserved Heterogeneity**  
-with [Miguel I. Gómez](http://gomez.dyson.cornell.edu/), [Philip Fanning](https://sbe.umaine.edu/philip-fanning/), [Rufus Isaacs](https://www.canr.msu.edu/people/rufus_isaacs), [Sergio Puerto Gonzalez](https://www.sergiopuerto.com/), and [C.-Y. Cynthia Lin Lawell](https://clinlawell.dyson.cornell.edu/). \[_Model development stage_\]
+with [Miguel I. Gómez](http://gomez.dyson.cornell.edu/), [Philip Fanning](https://sbe.umaine.edu/philip-fanning/), [Rufus Isaacs](https://www.canr.msu.edu/people/rufus_isaacs), [Sergio Puerto Gonzalez](https://www.sergiopuerto.com/), and [C.-Y. Cynthia Lin Lawell](https://clinlawell.dyson.cornell.edu/). [`Master's Thesis Version`](https://github.com/shuoy528/shuoyu/raw/master/files/Yu_cornell_0058O_10730.pdf) \[_Model development stage_\]
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent3', this)">▶ Abstract</button>
 <div id="abstractContent3" class="abstract-content" style="display: none;">
@@ -77,6 +77,9 @@ with [Aprajit Mahajan](https://are.berkeley.edu/~aprajit/) and [Sayantan Mitra](
 <div id="abstractContent4" class="abstract-content" style="display: none;">
 This project incentivizes smallholder farmers in rural India to adopt agricultural practices that improve soil carbon sequestration. We carry out a full RCT that pays farmers as a function of measured improvements in soil organic content in a context with liquidity constraints. The RCT lays the groundwork for developing a larger-scale program that links small farmers to commercial firms providing carbon credits. The project will also explore the potential of satellite data to validate the adoption and impact of regenerative agricultural practices, which will be essential for any scale-up.
 </div>
+
+**Cover Crop Detection in the Midwest with Satellite Data**
+with [Kangogo Sogomo](https://kangogosogomo.com/), [Yanghui Kang](https://yanghuikang.github.io/), [Lawson Connor](https://agribusiness.uark.edu/directory/index/uid/lconnor/name/Lawson+Connor/), [Brookie Guzder-Williams](https://dse.berkeley.edu/people/brookie-guzder-williams), and [Timothy Bowles](https://ourenvironment.berkeley.edu/people/bowles). \[_Model development stage_\]
 
 **Harmonizing Soil Carbon Science and Policy to Meet Climate Goals**  
 with Pranjal Dwivedi, Micah Elias, Allegra Mayer, Charlotte Kwong, Anna Abramova, Tyler Anthony, Tibisay Perez, Vrashabh Kapate, Sangcheol Moon, Jacqueline Gerson, and Whendee Silver. \[_Writing stage_\]
