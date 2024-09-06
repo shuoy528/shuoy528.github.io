@@ -67,6 +67,7 @@ with [Miguel I. Gómez](http://gomez.dyson.cornell.edu/), [Philip Fanning](https
 This paper analyzes the management strategies employed by Michigan highbush blueberry growers to combat Spotted Wing Drosophila (SWD), an invasive vinegar fly originating from East Asia that poses a significant threat to fruit crops. A dynamic structural econometric model is developed to study growers' decisions related to fly and larva monitoring as well as insecticide application. The model is applied to a comprehensive dataset comprising daily decision records of blueberry growers in Michigan. The findings provide insights into the effectiveness of various management strategies and their implications for economic outcomes in the agricultural sector.
 </div>
 
+
 **Sitting Solar on Farms**  
 with [Sara Johns](https://are.berkeley.edu/user/13859) \[_Data Analysis stage_\]
 
@@ -77,6 +78,7 @@ with [Aprajit Mahajan](https://are.berkeley.edu/~aprajit/) and [Sayantan Mitra](
 <div id="abstractContent4" class="abstract-content" style="display: none;">
 This project incentivizes smallholder farmers in rural India to adopt agricultural practices that improve soil carbon sequestration. We carry out a full RCT that pays farmers as a function of measured improvements in soil organic content in a context with liquidity constraints. The RCT lays the groundwork for developing a larger-scale program that links small farmers to commercial firms providing carbon credits. The project will also explore the potential of satellite data to validate the adoption and impact of regenerative agricultural practices, which will be essential for any scale-up.
 </div>
+
 
 **Cover Crop Detection in the Midwest with Satellite Data**
 with [Kangogo Sogomo](https://kangogosogomo.com/), [Yanghui Kang](https://yanghuikang.github.io/), [Lawson Connor](https://agribusiness.uark.edu/directory/index/uid/lconnor/name/Lawson+Connor/), [Brookie Guzder-Williams](https://dse.berkeley.edu/people/brookie-guzder-williams), and [Timothy Bowles](https://ourenvironment.berkeley.edu/people/bowles). \[_Model development stage_\]
