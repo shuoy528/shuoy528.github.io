@@ -16,8 +16,13 @@ UC Berkeley, Department of Agricultural & Resource Economics
   
   [Course Description](https://github.com/shuoy528/shuoyu.github.io/files/EEP100_CourseDescription.pdf) \| [Syllabus](https://github.com/shuoy528/shuoyu.github.io/files/EEP100_syllabus.pdf) \| Discussion Section Notes (available upon request)
 
+## Honors Thesis Mentorship
 
-## Mentoring
+UC Berkeley
+
+- Kavina Tara Peters. Thesis Title: "The Voluntary Agricultural Carbon Credit Market in India: Incentives, Challenges, and Efficacy"
+
+## Research Mentoring Programs
 
 UC Berkeley
 
