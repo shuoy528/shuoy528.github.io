@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Shuo Yu"
 description              : &description "Ph.D. candidate in Agricultural and Resource Economics"
 URL                      : "https://shuoy528.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/shuoy528.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shuoy528/shuoy528.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
