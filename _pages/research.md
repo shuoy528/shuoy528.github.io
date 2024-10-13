@@ -59,6 +59,12 @@ of the country, despite the possibility of yield remaining stable or increasing.
 **Designing Insurance under Climate Change** 
 with [Francis Annan](https://sites.google.com/site/fannan2316/) and [Sagar Saxena](https://www.sagarsxn.com/) \[_Model development stage_\]
 
+<button class="abstract-button" onclick="toggleAbstract('abstractContent5', this)">▶ Abstract</button>
+<div id="abstractContent5" class="abstract-content" style="display: none;">
+Government intervention in insurance markets, such as flood, wildfire, and crop insurance, is a common response to the growing risks associated with climate change. As the frequency of extreme weather events increases, these aggregate shocks necessitate policies that help stabilize incomes and mitigate the economic fallout. However, subsidized insurance programs may also reduce incentives for ex-ante adaptation. In this paper, we examine this trade-off in the context of the U.S. Federal Crop Insurance Program (FCIP) and its impact on farmers' adaptation to climate change. Using data on insurance contracts, yields, farm incomes, input expenditures, and weather realizations over three decades, we find that higher levels of insurance coverage are associated with both larger yield losses and reduced input use during extreme weather events. This suggests that subsidized crop insurance may diminish incentives to mitigate weather shocks. Yet, we also find evidence that higher insurance coverage effectively stabilizes farm incomes during extreme weather events. An optimal policy design would minimize this empirically observed trade-off between income stabilization and incentives to adapt. To explore this, we develop a structural model of insurance choice and production decisions to quantify the net welfare effects of subsidized insurance and simulate alternative policy designs. This work is ongoing; we will present preliminary reduced-form estimates, outline the empirical strategy for estimating the structural model, and discuss planned counterfactuals, which include policies such as replacing subsidies with conditional or unconditional transfers and adjusting the subsidy schedule.
+</div>
+
+
 **Optimal SWD Management in Michigan and North Carolina Blueberry: A Dynamic Structural Model with Unobserved Heterogeneity**  
 with [Miguel I. Gómez](http://gomez.dyson.cornell.edu/), [Philip Fanning](https://sbe.umaine.edu/philip-fanning/), [Rufus Isaacs](https://www.canr.msu.edu/people/rufus_isaacs), [Sergio Puerto Gonzalez](https://www.sergiopuerto.com/), and [C.-Y. Cynthia Lin Lawell](https://clinlawell.dyson.cornell.edu/). [`Master's Thesis Version`](https://github.com/shuoy528/shuoyu/raw/master/files/Yu_cornell_0058O_10730.pdf) \[_Model development stage_\]
 
@@ -127,7 +133,7 @@ A practical and reliable way to estimate field-scale evapotranspiration (ET) and
     
     .abstract-content {
         display: none;
-        margin-bottom: 1.5rem; /* Ensure space after abstract content */
+        margin-bottom: 2rem; /* Ensure space after abstract content */
         font-size: 1rem;
     }
 </style>
