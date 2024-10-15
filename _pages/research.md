@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Job Market Paper
 
-**Payments for Ecosystem Services and Water Quality in the Midwest U.S.** \[_Draft forthcoming_\]
+**Payments for Ecosystem Services and Water Quality in the Midwestern U.S.** \[_Draft forthcoming_\]
 
 ## Working Papers
 
