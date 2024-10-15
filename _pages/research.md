@@ -73,10 +73,6 @@ with [Miguel I. Gómez](http://gomez.dyson.cornell.edu/), [Philip Fanning](https
 This paper analyzes the management strategies employed by Michigan highbush blueberry growers to combat Spotted Wing Drosophila (SWD), an invasive vinegar fly originating from East Asia that poses a significant threat to fruit crops. A dynamic structural econometric model is developed to study growers' decisions related to fly and larva monitoring as well as insecticide application. The model is applied to a comprehensive dataset comprising daily decision records of blueberry growers in Michigan. The findings provide insights into the effectiveness of various management strategies and their implications for economic outcomes in the agricultural sector.
 </div>
 
-
-**Sitting Solar on Farms**  
-with [Sara Johns](https://are.berkeley.edu/user/13859) \[_Data Analysis stage_\]
-
 **Paying Smallholder Farmers to Increase Carbon Sequestration by Changing Agricultural Practices: Evidence from Odisha**  
 with [Aprajit Mahajan](https://are.berkeley.edu/~aprajit/) and [Sayantan Mitra](https://sites.google.com/view/sunnymitra/). \[_piloting completed, full RCT to start in 2025_\]
 
@@ -85,12 +81,11 @@ with [Aprajit Mahajan](https://are.berkeley.edu/~aprajit/) and [Sayantan Mitra](
 This project incentivizes smallholder farmers in rural India to adopt agricultural practices that improve soil carbon sequestration. We carry out a full RCT that pays farmers as a function of measured improvements in soil organic content in a context with liquidity constraints. The RCT lays the groundwork for developing a larger-scale program that links small farmers to commercial firms providing carbon credits. The project will also explore the potential of satellite data to validate the adoption and impact of regenerative agricultural practices, which will be essential for any scale-up.
 </div>
 
+**Sitting Solar on Farms**  
+with [Sara Johns](https://are.berkeley.edu/user/13859) \[_Data Analysis stage_\]
 
 **Cover Crop Detection in the Midwest with Satellite Data**
 with [Kangogo Sogomo](https://kangogosogomo.com/), [Yanghui Kang](https://yanghuikang.github.io/), [Lawson Connor](https://agribusiness.uark.edu/directory/index/uid/lconnor/name/Lawson+Connor/), [Brookie Guzder-Williams](https://dse.berkeley.edu/people/brookie-guzder-williams), and [Timothy Bowles](https://ourenvironment.berkeley.edu/people/bowles). \[_Model development stage_\]
-
-**Harmonizing Soil Carbon Science and Policy to Meet Climate Goals**  
-with Pranjal Dwivedi, Micah Elias, Allegra Mayer, Charlotte Kwong, Anna Abramova, Tyler Anthony, Tibisay Perez, Vrashabh Kapate, Sangcheol Moon, Jacqueline Gerson, and Whendee Silver. \[_Writing stage_\]
 
 ## Other Writings
 
@@ -100,6 +95,9 @@ Yu, Shuo, Haruko Murakami Wainwright, Benjamin Runkle, Colby Reavis, Michele L. 
 <div id="abstractContent5" class="abstract-content" style="display: none;">
 A practical and reliable way to estimate field-scale evapotranspiration (ET) and CO2 fluxes can significantly help with the optimization of water use and other sustainable practices in precision agriculture and ecosystem restoration. AmeriFlux is a "Big Data" framework updated through a tower-network that provides ecosystem measurements including water, greenhouse gas (GHG) and energy fluxes. Its sites are located in North, Central and South America, but they are limited to one or a few points in the region. The main focus of our research is to develop an effective and wide-ranging methodology for field-scale hydrological and carbon flux estimations based on the integration of AmeriFlux data and satellite images. The AmeriFlux data we use cover a pair of commercially farmed, adjacent rice fields located in Lonoke County, Arkansas for the period 2016-2018. We first illustrate that there is significant and numerically large correlation between the ET measurements and CO2 fluxes made at the AmeriFlux sites and land surface products derived from satellite remotely sensed data (normalized difference vegetation index (NDVI), air temperature, precipitation, and surface pressure) derived by Landsat-8 and Sentinel-2 sensors. Linear regression and random forest models were then developed for predictions. We will explore the spatial and temporal pattern of the data in the future analysis, as well as integrate with local high resolution geophysical data to better understand the effect of the soil spatial heterogeneity, which is known to impact plant development. We envision that the integration of such methodology with eco-hydrological models will enable capabilities to better estimate water use efficiency and carbon storage potential at the field-scale.
 </div>
+
+**Harmonizing Soil Carbon Science and Policy to Meet Climate Goals**  
+with Pranjal Dwivedi, Micah Elias, Allegra Mayer, Charlotte Kwong, Anna Abramova, Tyler Anthony, Tibisay Perez, Vrashabh Kapate, Sangcheol Moon, Jacqueline Gerson, and Whendee Silver. \[_Writing stage_\]
 
 <script>
     function toggleAbstract(abstractId, button) {
