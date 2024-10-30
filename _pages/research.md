@@ -8,6 +8,11 @@ permalink: /research/
 
 **Payments for Ecosystem Services and Water Quality in the Midwestern U.S.** \[_Draft forthcoming_\]
 
+<button class="abstract-button" onclick="toggleAbstract('abstractContent0', this)">▶ Abstract</button>
+<div id="abstractContent0" class="abstract-content" style="display: none;">
+Agricultural runoff from excessive fertilizer use is a major contributor to nonpoint source water pollution, leading to algal blooms, dead zones, and health risks. Cover cropping—planting non-cash crops during off-seasons—has emerged as a promising conservation practice to mitigate these impacts, supported by various payment for ecosystem services (PES) programs. This study evaluates the social value of the USDA’s Environmental Quality Incentives Program (EQIP) in improving water quality by examining the effectiveness of cover cropping and EQIP’s role in promoting adoption in the Midwest. Utilizing a unique 17-year, satellite-derived dataset on plot-level cover crop adoption and harmonized water quality metrics, we find that a one percentage point increase in upstream cover crop adoption reduces total nitrogen in the surface water by 0.9%, though no significant effect is observed for phosphorus. Analysis of EQIP’s Mississippi River Basin initiative shows an initial 8.7 percentage point increase in cover crop adoption, with the impact declining over time. Overall, EQIP’s cover cropping practices recover nearly 99% of costs through reductions in nitrogen pollution, indicating near cost-neutrality.
+</div>
+
 ## Working Papers
 
 **Short-Term Impact of the Trade War on U.S. Agricultural Commodities Futures Prices** \[_Draft upon request_\]
