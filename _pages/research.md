@@ -138,5 +138,6 @@ with Pranjal Dwivedi, Micah Elias, Allegra Mayer, Charlotte Kwong, Anna Abramova
         display: none;
         margin-bottom: 2rem; /* Ensure space after abstract content */
         font-size: 1rem;
+        text-align: justify;
     }
 </style>
