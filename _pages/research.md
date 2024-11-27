@@ -98,7 +98,9 @@ with [Kangogo Sogomo](https://kangogosogomo.com/), [Yanghui Kang](https://yanghu
 
 ## Other Writings
 
-Yu, Shuo, Haruko Murakami Wainwright, Benjamin Runkle, Colby Reavis, Michele L. Reba, and Nicola Falco. "Quantifying ET and Carbon Fluxes at Crop Scale by Integrating AmeriFlux and Remote Sensing Data." In AGU Fall Meeting Abstracts, vol. 2020, pp. GC119-0010. 2020. [`link`](https://ui.adsabs.harvard.edu/abs/2020AGUFMGC1190010Y/abstract)
+Yu, Shuo, Haruko Murakami Wainwright, Benjamin Runkle, Colby Reavis, Michele L. Reba, and Nicola Falco. "Quantifying ET and Carbon Fluxes at Crop Scale by Integrating AmeriFlux and Remote Sensing Data." In AGU Fall Meeting Abstracts, vol. 2020, pp. GC119-0010. 2020. 
+
+[`Publication`](https://ui.adsabs.harvard.edu/abs/2020AGUFMGC1190010Y/abstract)
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent6', this)">▶ Abstract</button>
 <div id="abstractContent6" class="abstract-content" style="display: none;">
