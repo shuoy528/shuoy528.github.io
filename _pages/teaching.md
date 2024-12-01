@@ -20,7 +20,7 @@ UC Berkeley, Department of Agricultural & Resource Economics
 
 UC Berkeley
 
-- Kavina Tara Peters. Thesis Title: "The Voluntary Agricultural Carbon Credit Market in India: Incentives, Challenges, and Efficacy"
+- Kavina T. Peters. Thesis Title: "The Voluntary Agricultural Carbon Credit Market in India: Incentives, Challenges, and Efficacy"
 
 ## Research Mentoring Programs
 
