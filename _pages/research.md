@@ -6,7 +6,8 @@ permalink: /research/
 
 ## Job Market Paper
 
-**Payments for Ecosystem Services and Water Quality in the Midwestern U.S.** \[_Draft forthcoming_\]
+**Payment for Ecosystem Services, Cover Cropping, and Surface Water Quality: Evidence from the
+Midwest** \[_Draft forthcoming_\]
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent0', this)">▶ Abstract</button>
 <div id="abstractContent0" class="abstract-content" style="display: none;">
