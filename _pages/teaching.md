@@ -6,7 +6,11 @@ permalink: /teaching/
 
 ## Teaching Assistant
 
-UC Berkeley, Department of Agricultural & Resource Economics 
+UC Berkeley, Department of Agricultural & Resource Economics
+
+- **Advanced Topics in Environmental and Resource Economics (EEP 161)** - Spring 2025
+
+[Syllabus](https://github.com/shuoy528/shuoyu.github.io/files/EEP161_syllabus.pdf) \| Discussion Section Notes (available upon request)
 
 - **Introductory Applied Econometrics (EEP/IAS 118)** - Fall 2023
   
