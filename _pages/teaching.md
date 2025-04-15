@@ -10,15 +10,15 @@ UC Berkeley, Department of Agricultural & Resource Economics
 
 - **Advanced Topics in Environmental and Resource Economics (EEP 161)** - Spring 2025
 
-  [Syllabus](https://github.com/shuoy528/shuoyu.github.io/files/EEP161_syllabus.pdf) \| [Discussion Section Notes](https://github.com/shuoy528/EEP161SectionNotes)
+  [Syllabus](https://shuoy528.github.io/files/EEP161_syllabus.pdf) \| [Discussion Section Notes](https://github.com/shuoy528/EEP161SectionNotes)
 
 - **Introductory Applied Econometrics (EEP/IAS 118)** - Fall 2023
   
-  [Syllabus](https://github.com/shuoy528/shuoyu.github.io/files/EEP118_syllabus.pdf) \| Discussion Section Notes (available upon request)
+  [Syllabus](https://shuoy528.github.io/files/EEP118_syllabus.pdf) \| Discussion Section Notes (available upon request)
  
 - **Microeconomic Theory with Application to Natural Resources (EEP 100)** - Spring 2021
   
-  [Course Description](https://github.com/shuoy528/shuoyu.github.io/files/EEP100_CourseDescription.pdf) \| [Syllabus](https://github.com/shuoy528/shuoyu.github.io/files/EEP100_syllabus.pdf) \| Discussion Section Notes (available upon request)
+  [Course Description](https://shuoy528.github.io/files/EEP100_CourseDescription.pdf) \| [Syllabus](https://shuoy528.github.io/files/EEP100_syllabus.pdf) \| Discussion Section Notes (available upon request)
 
 ## Honors Thesis Mentorship
 
