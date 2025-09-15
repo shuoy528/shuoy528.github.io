@@ -10,7 +10,7 @@ permalink: /research/
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent0', this)">▶ Abstract</button>
 <div id="abstractContent0" class="abstract-content" style="display: none;">
-Agricultural runoff significantly contributes to nutrient water pollution, leading to harmful environmental and economic consequences. Cover cropping (CC), the practice of planting non-cash crops during off-seasons, has emerged as a promising conservation strategy to mitigate these impacts. Payment for ecosystem services programs, such as the USDA's Environmental Quality Incentives Program (EQIP), have increasingly supported CC adoption through incentives. This study evaluates the social value of EQIP in enhancing water quality by examining its impact on CC adoption and the subsequent reduction in water pollution in the Midwest. Leveraging a unique 17-year, satellite-derived dataset on plot-level CC adoption and granular harmonized water quality metrics, we find that a one percentage point increase in upstream CC adoption reduces total nitrogen in surface water by 0.9%. An event-study analysis of EQIP's Mississippi River Basin Initiative shows an initial 8.7 percentage point increase in CC adoption, with the impact diminishing over time. Overall, EQIP's CC practices recover 48% of their implementation costs through reductions in nitrogen pollution under conservative assumptions, suggesting partial but significant economic returns via water quality improvements.
+Agricultural runoff significantly contributes to nutrient water pollution, leading to harmful environmental consequences and posing public health risks. Cover cropping (CC), the practice of planting non-cash crops during off-seasons, has gained attention as a conservation strategy to mitigate these impacts. USDA's Environmental Quality Incentives Program (EQIP), the largest working land conservation program in the U.S., has increasingly supported CC adoption through cost-share subsidies. This study assesses the social returns of EQIP in enhancing surface water quality through CC adoption in the Midwest. This paper conducts an event study to quantify the program's effect on CC adoption, using a novel 17-year satellite-derived dataset of field-level CC adoption and exploiting the staggered rollout of EQIP's Mississippi River Basin Healthy Watershed Initiative (MRBI). The estimates reveal that EQIP MRBI increased CC adoption by 1.46 percentage points over an average four-year treatment exposure, with persistent effects beyond program funding. The study then performs panel data analyses, linking CC adoption to harmonized water-quality data and leveraging the variation between upstream and downstream locations. Empirical results show that a one-percentage-point increase in upstream CC adoption share reduces total nitrogen in surface water by 0.88%. Combining both estimates, a back-of-the-envelope calculation yields a benefit-cost ratio of 2.22, which indicates that EQIP CC subsidies deliver substantial water-quality benefits. At the same time, while EQIP subsidies generate persistent adoption of CC, their additionality is limited, underscoring the need for sharper targeting to enhance environmental effectiveness.
 </div>
 
 ## Working Papers
@@ -63,8 +63,8 @@ of the country, despite the possibility of yield remaining stable or increasing.
 
 ## Work in Progress
 
-**Designing Insurance under Climate Change** 
-with [Francis Annan](https://sites.google.com/site/fannan2316/) and [Sagar Saxena](https://www.sagarsxn.com/) \[_Model development stage_\]
+**Designing Insurance for Climate Change: The Case of the U.S. Federal Crop Insurance Program** 
+with [Francis Annan](https://sites.google.com/site/fannan2316/),  [Shresth Garg](https://shresth-garg.github.io/), and [Sagar Saxena](https://www.sagarsxn.com/) \[_Model development stage_\] \[_Slides available upon request_\]
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent5', this)">▶ Abstract</button>
 <div id="abstractContent5" class="abstract-content" style="display: none;">
@@ -90,11 +90,11 @@ with [Aprajit Mahajan](https://are.berkeley.edu/~aprajit/) and [Sayantan Mitra](
 This project incentivizes smallholder farmers in rural India to adopt agricultural practices that improve soil carbon sequestration. We carry out a full RCT that pays farmers as a function of measured improvements in soil organic content in a context with liquidity constraints. The RCT lays the groundwork for developing a larger-scale program that links small farmers to commercial firms providing carbon credits. The project will also explore the potential of satellite data to validate the adoption and impact of regenerative agricultural practices, which will be essential for any scale-up.
 </div>
 
+**Cover Crop Detection in the Midwest with Satellite Data**
+with [Kangogo Sogomo](https://kangogosogomo.com/), [Yanghui Kang](https://yanghuikang.github.io/), [Lawson Connor](https://agribusiness.uark.edu/directory/index/uid/lconnor/name/Lawson+Connor/), [Brookie Guzder-Williams](https://dse.berkeley.edu/people/brookie-guzder-williams), and [Timothy Bowles](https://ourenvironment.berkeley.edu/people/bowles). \[_Writing stage_\]
+
 **Sitting Solar on Farms**  
 with [Sara Johns](https://are.berkeley.edu/user/13859) \[_Data Analysis stage_\]
-
-**Cover Crop Detection in the Midwest with Satellite Data**
-with [Kangogo Sogomo](https://kangogosogomo.com/), [Yanghui Kang](https://yanghuikang.github.io/), [Lawson Connor](https://agribusiness.uark.edu/directory/index/uid/lconnor/name/Lawson+Connor/), [Brookie Guzder-Williams](https://dse.berkeley.edu/people/brookie-guzder-williams), and [Timothy Bowles](https://ourenvironment.berkeley.edu/people/bowles). \[_Model development stage_\]
 
 ## Other Writings
 
