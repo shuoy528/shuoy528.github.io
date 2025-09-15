@@ -100,7 +100,7 @@ with [Sara Johns](https://are.berkeley.edu/user/13859) \[_Data Analysis stage_\]
 
 Peters, Kavina, Sara Yavas, Prachi Das, Mark Chechenin Gelfer, Sayantan Mitra, Aprajit Mahajan, and **Shuo Yu**. "Satellite Prediction of Yield and Soil Organic Carbon for Smallholder Farmers in India Using Machine Learning Models." In AGU Fall Meeting Abstracts, vol. 2024, pp. B41K-1452. 2024. 
 
-[`Publication`](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1715872)
+[`Publication`](https://ui.adsabs.harvard.edu/abs/2024AGUFMB41K.1452P/abstract)
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent8', this)">▶ Abstract</button>
 <div id="abstractContent8" class="abstract-content" style="display: none;">
