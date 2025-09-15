@@ -34,7 +34,7 @@ that such payments would not further distort the market.
 
 ## Publications
 
-Yu, Shuo*, Nicola Falco, Nivedita Patel, Yuxin Wu, and Haruko Wainwright. "[**Diverging climate response of corn yield and carbon use efficiency across the US.**](https://iopscience.iop.org/article/10.1088/1748-9326/acd5e4)" Environmental Research Letters 18, no. 6 (2023): 064049. 
+Yu, Shuo*, Nicola Falco, Nivedita Patel, Yuxin Wu, and Haruko Wainwright. "[**Diverging climate response of corn yield and carbon use efficiency across the US.**](https://iopscience.iop.org/article/10.1088/1748-9326/acd5e4)" _Environmental Research Letters_ 18, no. 6 (2023): 064049. 
 
 [`Replication`](https://github.com/shuoy528/erl-div-clim-resp)
 
@@ -73,7 +73,7 @@ Government intervention in insurance markets, such as flood, wildfire, and crop 
 
 
 **Optimal SWD Management in Michigan and North Carolina Blueberry: A Dynamic Structural Model with Unobserved Heterogeneity**  
-with [Miguel I. Gómez](http://gomez.dyson.cornell.edu/), [Rufus Isaacs](https://www.canr.msu.edu/people/rufus_isaacs), [Bingyan Dai](https://sites.google.com/cornell.edu/bingyandai), [Sergio Puerto Gonzalez](https://www.sergiopuerto.com/), and [C.-Y. Cynthia Lin Lawell](https://clinlawell.dyson.cornell.edu/). \[_Model development stage_\] 
+with [Miguel I. Gómez](http://gomez.dyson.cornell.edu/), [Philip Fanning](https://sbe.umaine.edu/philip-fanning/), [Rufus Isaacs](https://www.canr.msu.edu/people/rufus_isaacs), [Sergio Puerto Gonzalez](https://www.sergiopuerto.com/), and [C.-Y. Cynthia Lin Lawell](https://clinlawell.dyson.cornell.edu/). \[_Model development stage_\]
 
 [`Master's Thesis Version`](https://github.com/shuoy528/shuoyu/raw/master/files/Yu_cornell_0058O_10730.pdf)
 
