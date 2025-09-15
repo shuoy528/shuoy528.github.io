@@ -34,7 +34,7 @@ that such payments would not further distort the market.
 
 ## Publications
 
-Yu, Shuo*, Nicola Falco, Nivedita Patel, Yuxin Wu, and Haruko Wainwright. "[**Diverging climate response of corn yield and carbon use efficiency across the US.**](https://iopscience.iop.org/article/10.1088/1748-9326/acd5e4)" _Environmental Research Letters_ 18, no. 6 (2023): 064049. 
+**Yu, Shuo***, Nicola Falco, Nivedita Patel, Yuxin Wu, and Haruko Wainwright. "[Diverging climate response of corn yield and carbon use efficiency across the US.](https://iopscience.iop.org/article/10.1088/1748-9326/acd5e4)" _Environmental Research Letters_ 18, no. 6 (2023): 064049. 
 
 [`Replication`](https://github.com/shuoy528/erl-div-clim-resp)
 
