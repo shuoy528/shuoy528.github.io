@@ -14,7 +14,7 @@ UC Berkeley, Department of Agricultural & Resource Economics
 
 - **Introductory Applied Econometrics (EEP/IAS 118)** - Fall 2023
   
-  [Syllabus](https://shuoy528.github.io/files/EEP118_syllabus.pdf) \| Discussion Section Notes (available upon request)
+  [Syllabus](https://shuoy528.github.io/files/EEP118_syllabus.pdf) \| [Discussion Section Notes](https://github.com/shuoy528/EEP118SectionNotes)
  
 - **Microeconomic Theory with Application to Natural Resources (EEP 100)** - Spring 2021
   
