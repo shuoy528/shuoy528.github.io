@@ -91,11 +91,16 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 0;  // remove the circular frame
+    width: 100%;       // scale to container width
+    height: auto;      // keep natural aspect ratio
+    object-fit: contain; // show full image without cropping
+    padding: 0;         // remove frame padding
+    border: none;       // remove the circle border
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 0;
+      border: none;
     }
   }
 }
