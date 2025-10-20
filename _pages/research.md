@@ -126,6 +126,11 @@ A practical and reliable way to estimate field-scale evapotranspiration (ET) and
 **Harmonizing Soil Carbon Science and Policy to Meet Climate Goals**  
 with Pranjal Dwivedi, Micah Elias, Allegra Mayer, Charlotte Kwong, Anna Abramova, Tyler Anthony, Tibisay Perez, Vrashabh Kapate, Sangcheol Moon, Jacqueline Gerson, and Whendee Silver. \[_Writing stage_\]
 
+<button class="abstract-button" onclick="toggleAbstract('abstractContent10', this)">▶ Abstract</button>
+<div id="abstractContent10" class="abstract-content" style="display: none;">
+This paper aims to bridge the gap between soil carbon (C) science and policy, providing a comprehensive overview of the current state of soil C sequestration, uncertainties in measurement and estimation, and emerging technologies in soil carbon measurement. It critically evaluates the current policy landscape, both public and private, and identifies key issues with existing approaches, such as the challenges of additionality, permanence, and leakage in soil C programs. The paper also explores innovative solutions, proposing a new regulatory framework that emphasizes a regional biogeographical approach to soil C accounting and management, and suggests ways to improve soil C sequestration strategies through regulatory and market-based approaches. The goal is to foster a more accurate, scalable, and equitable soil C management system that can effectively contribute to climate change mitigation.
+</div>
+
 <script>
     function toggleAbstract(abstractId, button) {
         var abstractContent = document.getElementById(abstractId);
