@@ -90,6 +90,8 @@ with [Aprajit Mahajan](https://are.berkeley.edu/~aprajit/) and [Sayantan Mitra](
 This project incentivizes smallholder farmers in rural India to adopt agricultural practices that improve soil carbon sequestration. We carry out a full RCT that pays farmers as a function of measured improvements in soil organic content in a context with liquidity constraints. The RCT lays the groundwork for developing a larger-scale program that links small farmers to commercial firms providing carbon credits. The project will also explore the potential of satellite data to validate the adoption and impact of regenerative agricultural practices, which will be essential for any scale-up.
 </div>
 
+Funded by JPAL K-CAI ($225,000), [ATAI Pilot Grant](https://www.atai-research.org/project/studying-the-effect-of-adopting-regenerative-agriculture-practices-on-smallholder-farmer-livelihoods/) ($74,830), [K-CAI Pilot Grant](https://www.povertyactionlab.org/initiative-project/paying-smallholder-farmers-increase-carbon-sequestration-changing-agricultural) ($74,991), CGIAR ($50,452), PEDL ERG (£35,480), and [CEGA](https://cega.berkeley.edu/collection/studying-the-effect-of-adopting-regenerative-agriculture-practices-on-smallholder-farmer-livelihoods/) ($8,027).
+
 **Cover Crop Detection in the Midwest with Satellite Data**
 with [Kangogo Sogomo](https://kangogosogomo.com/), [Yanghui Kang](https://yanghuikang.github.io/), [Lawson Connor](https://agribusiness.uark.edu/directory/index/uid/lconnor/name/Lawson+Connor/), [Brookie Guzder-Williams](https://dse.berkeley.edu/people/brookie-guzder-williams), and [Timothy Bowles](https://ourenvironment.berkeley.edu/people/bowles). \[_Writing stage_\]
 
