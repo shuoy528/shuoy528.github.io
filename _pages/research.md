@@ -72,7 +72,7 @@ Government intervention in insurance markets, such as flood, wildfire, and crop 
 </div>
 
 
-**Optimal SWD Management in Michigan and North Carolina Blueberry: A Dynamic Structural Model with Unobserved Heterogeneity**  
+**Optimal Management of Spotted Wing Drosophila in U.S. Blueberry Production: A Dynamic Structural Model with Unobserved Heterogeneity**  
 with [Miguel I. Gómez](http://gomez.dyson.cornell.edu/), [Philip Fanning](https://sbe.umaine.edu/philip-fanning/), [Rufus Isaacs](https://www.canr.msu.edu/people/rufus_isaacs), [Sergio Puerto Gonzalez](https://www.sergiopuerto.com/), and [C.-Y. Cynthia Lin Lawell](https://clinlawell.dyson.cornell.edu/). \[_Model development stage_\]
 
 [`Master's Thesis Version`](https://github.com/shuoy528/shuoyu/raw/master/files/Yu_cornell_0058O_10730.pdf)
@@ -92,11 +92,16 @@ Funded by JPAL K-CAI ($225,000), [ATAI Pilot Grant](https://www.atai-research.or
 This project incentivizes smallholder farmers in rural India to adopt agricultural practices that improve soil carbon sequestration. We carry out a full RCT that pays farmers as a function of measured improvements in soil organic content in a context with liquidity constraints. The RCT lays the groundwork for developing a larger-scale program that links small farmers to commercial firms providing carbon credits. The project will also explore the potential of satellite data to validate the adoption and impact of regenerative agricultural practices, which will be essential for any scale-up.
 </div>
 
+**Siting Solar on Farms: Land Use Tradeoffs and Agricultural Impacts**
+with [Sara Johns](https://are.berkeley.edu/user/13859) \[_Data Analysis stage_\]
+
+<button class="abstract-button" onclick="toggleAbstract('abstractContent9', this)">▶ Abstract</button>
+<div id="abstractContent9" class="abstract-content" style="display: none;">
+This study examines the determinants of farmland conversion to solar energy production amid the Biden administration’s target to eliminate fossil fuel electricity generation by 2035. Using data from Illinois’s 2019 community solar lottery under the Adjustable Block Program, which randomly selected projects from an oversubscribed pool of solar applications, we analyze the characteristics of fields and farmers who agreed to lease agricultural land for solar development. We combine project-level information with spatial data on land productivity, climate risk, and infrastructure access to estimate how economic and environmental factors influence farmers’ leasing decisions. Fixed-effects and instrumental-variable models show that a 10% increase in lease price raises the probability of leasing by 4%, while a 10% increase in field productivity reduces it by 28%. Moreover, farmers facing greater climate variability—proxied by a 10% increase in extreme heat days or excessive rainfall—are 11% and 15% more likely, respectively, to lease their land for solar projects. These findings highlight the central roles of economic incentives, land quality, and climate risk in shaping renewable energy expansion on agricultural land, with implications for the design of policies that balance renewable energy development and farmland conservation.
+</div>
+
 **Cover Crop Detection in the Midwest with Satellite Data**
 with [Kangogo Sogomo](https://kangogosogomo.com/), [Yanghui Kang](https://yanghuikang.github.io/), [Lawson Connor](https://agribusiness.uark.edu/directory/index/uid/lconnor/name/Lawson+Connor/), [Brookie Guzder-Williams](https://dse.berkeley.edu/people/brookie-guzder-williams), and [Timothy Bowles](https://ourenvironment.berkeley.edu/people/bowles). \[_Writing stage_\]
-
-**Sitting Solar on Farms**  
-with [Sara Johns](https://are.berkeley.edu/user/13859) \[_Data Analysis stage_\]
 
 ## Other Writings
 
