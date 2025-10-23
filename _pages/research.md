@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Job Market Paper
 
-**{Social Returns to Conservation: Incentives for Cover Crops and Water Quality in the Midwest](https://github.com/shuoy528/shuoy528.github.io/blob/master/files/JMP_ShuoYu.pdf)**
+**[Social Returns to Conservation: Incentives for Cover Crops and Water Quality in the Midwest](https://github.com/shuoy528/shuoy528.github.io/blob/master/files/JMP_ShuoYu.pdf)**
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent0', this)">▶ Abstract</button>
 <div id="abstractContent0" class="abstract-content" style="display: none;">
