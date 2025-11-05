@@ -83,7 +83,7 @@ This paper analyzes the management strategies employed by Michigan highbush blue
 </div>
 
 **Paying Smallholder Farmers to Increase Carbon Sequestration by Changing Agricultural Practices: Evidence from Odisha**  
-with [Aprajit Mahajan](https://are.berkeley.edu/~aprajit/) and [Sayantan Mitra](https://sites.google.com/view/sunnymitra/). \[_Pilot completed; RCT scheduled Nov 2025_\]
+with [Aprajit Mahajan](https://are.berkeley.edu/~aprajit/), [Elizabeth Saunders](https://www.linkedin.com/in/liz-saunders-72a717170/), and [Sayantan Mitra](https://sites.google.com/view/sunnymitra/). \[_Pilot completed; RCT scheduled Nov 2025_\]
 
 Funded by JPAL K-CAI ($225,000), [ATAI Pilot Grant](https://www.atai-research.org/project/studying-the-effect-of-adopting-regenerative-agriculture-practices-on-smallholder-farmer-livelihoods/) ($74,830), [K-CAI Pilot Grant](https://www.povertyactionlab.org/initiative-project/paying-smallholder-farmers-increase-carbon-sequestration-changing-agricultural) ($74,991), CGIAR ($50,452), PEDL ERG (£35,480), and [CEGA](https://cega.berkeley.edu/collection/studying-the-effect-of-adopting-regenerative-agriculture-practices-on-smallholder-farmer-livelihoods/) ($8,027).
 
