@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Job Market Paper
 
-**[Social Returns to Conservation: Incentives for Cover Crops and Water Quality in the Midwest](https://drive.google.com/file/d/1Bq7Be34EbIwvL-ZUy3KJ08IRafcRE64f/view?usp=sharing)**
+[Social Returns to Conservation: Incentives for Cover Crops and Water Quality in the Midwest](https://drive.google.com/file/d/1Bq7Be34EbIwvL-ZUy3KJ08IRafcRE64f/view?usp=sharing)
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent0', this)">▶ Abstract</button>
 <div id="abstractContent0" class="abstract-content" style="display: none;">
@@ -15,7 +15,7 @@ This study estimates the effectiveness of the U.S. Department of Agriculture’s
 
 ## Working Papers
 
-**Short-Term Impact of the Trade War on U.S. Agricultural Commodities Futures Prices** \[_Draft upon request_\]
+Short-Term Impact of the Trade War on U.S. Agricultural Commodities Futures Prices \[_Draft upon request_\]
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent1', this)">▶ Abstract</button>
 <div id="abstractContent1" class="abstract-content" style="display: none;">
@@ -32,7 +32,7 @@ reveals that the massive trade aid payments had mixed effects on futures prices,
 that such payments would not further distort the market.
 </div>
 
-**Proactive Adaptation to Wildfires: Evidence from California Cities** 
+Proactive Adaptation to Wildfires: Evidence from California Cities 
 with [Wei Guo](https://sites.google.com/view/weiguo), [Shan Zhou](https://www.cla.purdue.edu/directory/profiles/shan-zhou.html), and [Qing Miao](https://www.rit.edu/directory/qxmgla-qing-miao) \[_Draft upon request_\]
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent11', this)">▶ Abstract</button>
@@ -82,7 +82,7 @@ of the country, despite the possibility of yield remaining stable or increasing.
 
 ## Work in Progress
 
-**Designing Insurance for Climate Change: The Case of the U.S. Federal Crop Insurance Program** 
+Designing Insurance for Climate Change: The Case of the U.S. Federal Crop Insurance Program 
 with [Francis Annan](https://sites.google.com/site/fannan2316/),  [Shresth Garg](https://shresth-garg.github.io/), and [Sagar Saxena](https://www.sagarsxn.com/) \[_Model development stage_\] \[_Slides available upon request_\]
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent5', this)">▶ Abstract</button>
