@@ -32,6 +32,25 @@ reveals that the massive trade aid payments had mixed effects on futures prices,
 that such payments would not further distort the market.
 </div>
 
+**Proactive Adaptation to Wildfires: Evidence from California Cities** 
+with [Wei Guo](https://sites.google.com/view/weiguo), [Shan Zhou](https://www.cla.purdue.edu/directory/profiles/shan-zhou.html), and [Qing Miao](https://www.rit.edu/directory/qxmgla-qing-miao)\[_Draft upon request_\]
+
+<button class="abstract-button" onclick="toggleAbstract('abstractContent11', this)">▶ Abstract</button>
+<div id="abstractContent11" class="abstract-content" style="display: none;">
+Wildfires have intensified rapidly in frequency and severity, yet little is known about whether
+such events spur proactive investments in sustainable technologies and practices. This study
+examines responses to wildfire shocks through construction and green investment decisions in
+California’s building sector from 2013 to 2024. Using high-resolution spatial data, we
+distinguish between direct damage and exposure to wildfire perimeters to identify effects driven
+by physical recovery and by heightened climate-risk perception. Results show that wildfire
+damage triggers short-term surges in rebuilding and green construction, while exposure drives
+energy-efficiency upgrades to existing buildings. Residential EV charger installations rise after
+wildfires, reflecting heightened climate awareness, whereas commercial installations decline
+amid post-disaster financial constraints. Overall, the findings suggest that wildfire events
+catalyze proactive adaptation, encouraging the adoption of clean and resilient technologies
+through recovery processes and heightened climate awareness.
+</div>
+
 ## Publications
 
 **Yu, Shuo***, [Nicola Falco](https://www.nicola-falco.com/), [Nivedita Patel](https://www.linkedin.com/in/nivedita-patel-993a0b1a6/), [Yuxin Wu](https://profiles.lbl.gov/20938-yuxin-wu), and [Haruko Wainwright](https://nse.mit.edu/people/haruko-wainwright/). "[Diverging climate response of corn yield and carbon use efficiency across the US.](https://iopscience.iop.org/article/10.1088/1748-9326/acd5e4)" _Environmental Research Letters_ 18, no. 6 (2023): 064049. 
