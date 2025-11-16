@@ -153,7 +153,6 @@ This paper aims to bridge the gap between soil carbon (C) science and policy, pr
 <script>
     function toggleAbstract(abstractId, button) {
         var abstractContent = document.getElementById(abstractId);
-        var button = document.querySelector(".abstract-button");
         if (abstractContent.style.display === "none" || abstractContent.style.display === "") {
             abstractContent.style.display = "block";
             button.innerHTML = "▼ Abstract";
