@@ -33,7 +33,7 @@ that such payments would not further distort the market.
 </div>
 
 **Proactive Adaptation to Wildfires: Evidence from California Cities** 
-with [Wei Guo](https://sites.google.com/view/weiguo), [Shan Zhou](https://www.cla.purdue.edu/directory/profiles/shan-zhou.html), and [Qing Miao](https://www.rit.edu/directory/qxmgla-qing-miao)\[_Draft upon request_\]
+with [Wei Guo](https://sites.google.com/view/weiguo), [Shan Zhou](https://www.cla.purdue.edu/directory/profiles/shan-zhou.html), and [Qing Miao](https://www.rit.edu/directory/qxmgla-qing-miao) \[_Draft upon request_\]
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent11', this)">▶ Abstract</button>
 <div id="abstractContent11" class="abstract-content" style="display: none;">
