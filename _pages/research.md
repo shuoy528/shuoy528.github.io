@@ -96,6 +96,15 @@ Funded by two Giannini Mini-Grants ($60,000).
 Government intervention in insurance markets, such as flood, wildfire, and crop insurance, is a common response to the growing risks associated with climate change. As the frequency of extreme weather events increases, these aggregate shocks necessitate policies that help stabilize incomes and mitigate the economic fallout. However, subsidized insurance programs may also reduce incentives for ex-ante adaptation. In this paper, we examine this trade-off in the context of the U.S. Federal Crop Insurance Program (FCIP) and its impact on farmers' adaptation to climate change. Using data on insurance contracts, yields, farm incomes, input expenditures, and weather realizations over three decades, we find that higher levels of insurance coverage are associated with both larger yield losses and reduced input use during extreme weather events. This suggests that subsidized crop insurance may diminish incentives to mitigate weather shocks. Yet, we also find evidence that higher insurance coverage effectively stabilizes farm incomes during extreme weather events. An optimal policy design would minimize this empirically observed trade-off between income stabilization and incentives to adapt. To explore this, we develop a structural model of insurance choice and production decisions to quantify the net welfare effects of subsidized insurance and simulate alternative policy designs.
 </div>
 
+**Paying Smallholder Farmers to Increase Carbon Sequestration by Changing Agricultural Practices: Evidence from Odisha**  
+with [Aprajit Mahajan](https://are.berkeley.edu/~aprajit/), [Elizabeth Saunders](https://www.linkedin.com/in/liz-saunders-72a717170/), and [Sayantan Mitra](https://sites.google.com/view/sunnymitra/). \[_Pilot completed; RCT in progress_\]
+
+Funded by JPAL K-CAI ($225,000), Weiss ($49,911), [ATAI Pilot Grant](https://www.atai-research.org/project/studying-the-effect-of-adopting-regenerative-agriculture-practices-on-smallholder-farmer-livelihoods/) ($74,830), [K-CAI Pilot Grant](https://www.povertyactionlab.org/initiative-project/paying-smallholder-farmers-increase-carbon-sequestration-changing-agricultural) ($74,991), CGIAR ($50,452), PEDL ERG (£35,480), and [CEGA](https://cega.berkeley.edu/collection/studying-the-effect-of-adopting-regenerative-agriculture-practices-on-smallholder-farmer-livelihoods/) ($8,027).
+
+<button class="abstract-button" onclick="toggleAbstract('abstractContent4', this)">▶ Abstract</button>
+<div id="abstractContent4" class="abstract-content" style="display: none;">
+This project incentivizes smallholder farmers in rural India to adopt agricultural practices that improve soil carbon sequestration. We carry out a full RCT that pays farmers as a function of measured improvements in soil organic content in a context with liquidity constraints. The RCT lays the groundwork for developing a larger-scale program that links small farmers to commercial firms providing carbon credits. The project will also explore the potential of satellite data to validate the adoption and impact of regenerative agricultural practices, which will be essential for any scale-up.
+</div>
 
 **Optimal Management of Spotted Wing Drosophila in U.S. Blueberry Production: A Dynamic Structural Model with Unobserved Heterogeneity**
 with [Miguel I. Gómez](http://gomez.dyson.cornell.edu/), [Philip Fanning](https://sbe.umaine.edu/philip-fanning/), [Rufus Isaacs](https://www.canr.msu.edu/people/rufus_isaacs), [Sergio Puerto Gonzalez](https://www.sergiopuerto.com/), and [C.-Y. Cynthia Lin Lawell](https://clinlawell.dyson.cornell.edu/). \[_Model development and empirical analysis in progress_\]
@@ -107,16 +116,6 @@ Significantly revised from my [`Master's thesis`](https://github.com/shuoy528/sh
 <button class="abstract-button" onclick="toggleAbstract('abstractContent3', this)">▶ Abstract</button>
 <div id="abstractContent3" class="abstract-content" style="display: none;">
 This paper analyzes the management strategies employed by Michigan highbush blueberry growers to combat Spotted Wing Drosophila (SWD), an invasive vinegar fly originating from East Asia that poses a significant threat to fruit crops. A dynamic structural econometric model is developed to study growers' decisions related to fly and larva monitoring as well as insecticide application. The model is applied to a comprehensive dataset comprising daily decision records of blueberry growers in Michigan. The findings provide insights into the effectiveness of various management strategies and their implications for economic outcomes in the agricultural sector.
-</div>
-
-**Paying Smallholder Farmers to Increase Carbon Sequestration by Changing Agricultural Practices: Evidence from Odisha**  
-with [Aprajit Mahajan](https://are.berkeley.edu/~aprajit/), [Elizabeth Saunders](https://www.linkedin.com/in/liz-saunders-72a717170/), and [Sayantan Mitra](https://sites.google.com/view/sunnymitra/). \[_Pilot completed; RCT in progress_\]
-
-Funded by JPAL K-CAI ($225,000), Weiss ($49,911), [ATAI Pilot Grant](https://www.atai-research.org/project/studying-the-effect-of-adopting-regenerative-agriculture-practices-on-smallholder-farmer-livelihoods/) ($74,830), [K-CAI Pilot Grant](https://www.povertyactionlab.org/initiative-project/paying-smallholder-farmers-increase-carbon-sequestration-changing-agricultural) ($74,991), CGIAR ($50,452), PEDL ERG (£35,480), and [CEGA](https://cega.berkeley.edu/collection/studying-the-effect-of-adopting-regenerative-agriculture-practices-on-smallholder-farmer-livelihoods/) ($8,027).
-
-<button class="abstract-button" onclick="toggleAbstract('abstractContent4', this)">▶ Abstract</button>
-<div id="abstractContent4" class="abstract-content" style="display: none;">
-This project incentivizes smallholder farmers in rural India to adopt agricultural practices that improve soil carbon sequestration. We carry out a full RCT that pays farmers as a function of measured improvements in soil organic content in a context with liquidity constraints. The RCT lays the groundwork for developing a larger-scale program that links small farmers to commercial firms providing carbon credits. The project will also explore the potential of satellite data to validate the adoption and impact of regenerative agricultural practices, which will be essential for any scale-up.
 </div>
 
 **Siting Solar on Farms: Land Use Tradeoffs and Agricultural Impacts**
