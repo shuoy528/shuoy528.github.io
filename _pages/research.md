@@ -83,7 +83,7 @@ of the country, despite the possibility of yield remaining stable or increasing.
 ## Work in Progress
 
 **Designing Insurance for Climate Change: The Case of the U.S. Federal Crop Insurance Program** 
-with [Francis Annan](https://sites.google.com/site/fannan2316/),  [Shresth Garg](https://shresth-garg.github.io/), and [Sagar Saxena](https://www.sagarsxn.com/) \[_Model development stage_\] \[_Slides available upon request_\]
+with [Francis Annan](https://sites.google.com/site/fannan2316/),  [Shresth Garg](https://shresth-garg.github.io/), and [Sagar Saxena](https://www.sagarsxn.com/) \[_Model development stage; slides available upon request_\]
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent5', this)">▶ Abstract</button>
 <div id="abstractContent5" class="abstract-content" style="display: none;">
@@ -92,9 +92,9 @@ Government intervention in insurance markets, such as flood, wildfire, and crop 
 
 
 **Optimal Management of Spotted Wing Drosophila in U.S. Blueberry Production: A Dynamic Structural Model with Unobserved Heterogeneity**  
-with [Miguel I. Gómez](http://gomez.dyson.cornell.edu/), [Philip Fanning](https://sbe.umaine.edu/philip-fanning/), [Rufus Isaacs](https://www.canr.msu.edu/people/rufus_isaacs), [Sergio Puerto Gonzalez](https://www.sergiopuerto.com/), and [C.-Y. Cynthia Lin Lawell](https://clinlawell.dyson.cornell.edu/). \[_Model development stage_\]
+with [Miguel I. Gómez](http://gomez.dyson.cornell.edu/), [Philip Fanning](https://sbe.umaine.edu/philip-fanning/), [Rufus Isaacs](https://www.canr.msu.edu/people/rufus_isaacs), [Sergio Puerto Gonzalez](https://www.sergiopuerto.com/), and [C.-Y. Cynthia Lin Lawell](https://clinlawell.dyson.cornell.edu/). \[_Model development and empirical analysis in progress_\]
 
-[`Master's Thesis Version`](https://github.com/shuoy528/shuoyu/raw/master/files/Yu_cornell_0058O_10730.pdf)
+Significantly revised from my [`Master's Thesis`](https://github.com/shuoy528/shuoyu/raw/master/files/Yu_cornell_0058O_10730.pdf).
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent3', this)">▶ Abstract</button>
 <div id="abstractContent3" class="abstract-content" style="display: none;">
@@ -102,7 +102,7 @@ This paper analyzes the management strategies employed by Michigan highbush blue
 </div>
 
 **Paying Smallholder Farmers to Increase Carbon Sequestration by Changing Agricultural Practices: Evidence from Odisha**  
-with [Aprajit Mahajan](https://are.berkeley.edu/~aprajit/), [Elizabeth Saunders](https://www.linkedin.com/in/liz-saunders-72a717170/), and [Sayantan Mitra](https://sites.google.com/view/sunnymitra/). \[_Pilot completed; RCT scheduled Nov 2025_\]
+with [Aprajit Mahajan](https://are.berkeley.edu/~aprajit/), [Elizabeth Saunders](https://www.linkedin.com/in/liz-saunders-72a717170/), and [Sayantan Mitra](https://sites.google.com/view/sunnymitra/). \[_Pilot completed; RCT in progress_\]
 
 Funded by JPAL K-CAI ($225,000), Weiss ($49,911), [ATAI Pilot Grant](https://www.atai-research.org/project/studying-the-effect-of-adopting-regenerative-agriculture-practices-on-smallholder-farmer-livelihoods/) ($74,830), [K-CAI Pilot Grant](https://www.povertyactionlab.org/initiative-project/paying-smallholder-farmers-increase-carbon-sequestration-changing-agricultural) ($74,991), CGIAR ($50,452), PEDL ERG (£35,480), and [CEGA](https://cega.berkeley.edu/collection/studying-the-effect-of-adopting-regenerative-agriculture-practices-on-smallholder-farmer-livelihoods/) ($8,027).
 
