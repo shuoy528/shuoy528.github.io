@@ -8,6 +8,8 @@ permalink: /research/
 
 **[Social Returns to Conservation: Incentives for Cover Crops and Water Quality in the Midwest](https://drive.google.com/file/d/1Bq7Be34EbIwvL-ZUy3KJ08IRafcRE64f/view?usp=sharing)**
 
+Funded by a Giannini Mini-Grant ($30,000).
+
 <button class="abstract-button" onclick="toggleAbstract('abstractContent0', this)">▶ Abstract</button>
 <div id="abstractContent0" class="abstract-content" style="display: none;">
 This study estimates the effectiveness of the U.S. Department of Agriculture’s Environmental Quality Incentives Program (EQIP) cover crop subsidy program to mitigate water pollution from agricultural runoff and leaching. The study uses a novel satellite-derived dataset of field-level cover crop adoption and exploits quasi-experimental variation from the geographically time-varying implementation of EQIP’s Mississippi River Basin Healthy Watersheds Initiative (EQIP–MRBI). Event-study results show that MRBI funding raises cover crop adoption by 29% above baseline, with persistent effects. Linking the satellite adoption data to water-quality records, the study finds that a one-percentage-point increase in upstream adoption reduces total nitrogen by 0.83%. The implied benefit-cost ratio is 2.52.
@@ -16,6 +18,8 @@ This study estimates the effectiveness of the U.S. Department of Agriculture’s
 ## Working Papers
 
 **Short-Term Impact of the Trade War on U.S. Agricultural Commodities Futures Prices** \[_Draft upon request_\]
+
+Funded by a Giannini Mini-Grant ($30,000).
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent1', this)">▶ Abstract</button>
 <div id="abstractContent1" class="abstract-content" style="display: none;">
@@ -85,14 +89,18 @@ of the country, despite the possibility of yield remaining stable or increasing.
 **Designing Insurance for Climate Change: The Case of the U.S. Federal Crop Insurance Program** 
 with [Francis Annan](https://sites.google.com/site/fannan2316/),  [Shresth Garg](https://shresth-garg.github.io/), and [Sagar Saxena](https://www.sagarsxn.com/) \[_Model development stage; slides available upon request_\]
 
+Funded by two Giannini Mini-Grants ($60,000).
+
 <button class="abstract-button" onclick="toggleAbstract('abstractContent5', this)">▶ Abstract</button>
 <div id="abstractContent5" class="abstract-content" style="display: none;">
 Government intervention in insurance markets, such as flood, wildfire, and crop insurance, is a common response to the growing risks associated with climate change. As the frequency of extreme weather events increases, these aggregate shocks necessitate policies that help stabilize incomes and mitigate the economic fallout. However, subsidized insurance programs may also reduce incentives for ex-ante adaptation. In this paper, we examine this trade-off in the context of the U.S. Federal Crop Insurance Program (FCIP) and its impact on farmers' adaptation to climate change. Using data on insurance contracts, yields, farm incomes, input expenditures, and weather realizations over three decades, we find that higher levels of insurance coverage are associated with both larger yield losses and reduced input use during extreme weather events. This suggests that subsidized crop insurance may diminish incentives to mitigate weather shocks. Yet, we also find evidence that higher insurance coverage effectively stabilizes farm incomes during extreme weather events. An optimal policy design would minimize this empirically observed trade-off between income stabilization and incentives to adapt. To explore this, we develop a structural model of insurance choice and production decisions to quantify the net welfare effects of subsidized insurance and simulate alternative policy designs.
 </div>
 
 
-**Optimal Management of Spotted Wing Drosophila in U.S. Blueberry Production: A Dynamic Structural Model with Unobserved Heterogeneity**  
+**Optimal Management of Spotted Wing Drosophila in U.S. Blueberry Production: A Dynamic Structural Model with Unobserved Heterogeneity**
 with [Miguel I. Gómez](http://gomez.dyson.cornell.edu/), [Philip Fanning](https://sbe.umaine.edu/philip-fanning/), [Rufus Isaacs](https://www.canr.msu.edu/people/rufus_isaacs), [Sergio Puerto Gonzalez](https://www.sergiopuerto.com/), and [C.-Y. Cynthia Lin Lawell](https://clinlawell.dyson.cornell.edu/). \[_Model development and empirical analysis in progress_\]
+
+Funded by a Giannini Mini-Grant ($35,000) and the [USDA Specialty Crop Research Initiative](https://swdmanagement.org/) ($10,000).
 
 Significantly revised from my [`Master's thesis`](https://github.com/shuoy528/shuoyu/raw/master/files/Yu_cornell_0058O_10730.pdf).
 
@@ -113,6 +121,8 @@ This project incentivizes smallholder farmers in rural India to adopt agricultur
 
 **Siting Solar on Farms: Land Use Tradeoffs and Agricultural Impacts**
 with [Sara Johns](https://are.berkeley.edu/user/13859) \[_Data Analysis stage_\]
+
+Funded by a Giannini Mini-Grant ($30,000), an ARE Data Grant ($897), and an ARE Graduate Student Travel Grant ($1,500).
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent9', this)">▶ Abstract</button>
 <div id="abstractContent9" class="abstract-content" style="display: none;">
