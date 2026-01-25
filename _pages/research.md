@@ -10,7 +10,7 @@ permalink: /research/
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent0', this)">▶ Abstract</button>
 <div id="abstractContent0" class="abstract-content" style="display: none;">
-This study estimates the effectiveness of the U.S. Department of Agriculture’s Environmental Quality Incentives Program (EQIP) cover crop subsidy program to mitigate water pollution from agricultural runoff and leaching. The study uses a novel satellite-derived dataset of field-level cover crop adoption and exploits quasi-experimental variation from the geographically time-varying implementation of EQIP’s Mississippi River Basin Healthy Watersheds Initiative (EQIP–MRBI). Event-study results show that MRBI funding raises cover crop adoption by 29% above baseline, with persistent effects. Linking the satellite adoption data to water-quality records, the study finds that a one-percentage-point increase in upstream adoption reduces total nitrogen by 0.83%. The implied benefit–cost ratio is 2.52.
+This study estimates the effectiveness of the U.S. Department of Agriculture’s Environmental Quality Incentives Program (EQIP) cover crop subsidy program to mitigate water pollution from agricultural runoff and leaching. The study uses a novel satellite-derived dataset of field-level cover crop adoption and exploits quasi-experimental variation from the geographically time-varying implementation of EQIP’s Mississippi River Basin Healthy Watersheds Initiative (EQIP–MRBI). Event-study results show that MRBI funding raises cover crop adoption by 29% above baseline, with persistent effects. Linking the satellite adoption data to water-quality records, the study finds that a one-percentage-point increase in upstream adoption reduces total nitrogen by 0.83%. The implied benefit-cost ratio is 2.52.
 </div>
 
 ## Working Papers
@@ -32,7 +32,7 @@ reveals that the massive trade aid payments had mixed effects on futures prices,
 that such payments would not further distort the market.
 </div>
 
-**Proactive Adaptation to Wildfires: Evidence from California Cities**
+**[Proactive Adaptation to Wildfires: Evidence from California Cities](https://drive.google.com/file/d/1K15qsM33nygkuaoSgk0GJWZ-ke9Ibp88/view?usp=sharing)**
 with [Wei Guo](https://sites.google.com/view/weiguo), [Shan Zhou](https://www.cla.purdue.edu/directory/profiles/shan-zhou.html), and [Qing Miao](https://www.rit.edu/directory/qxmgla-qing-miao) \[_Draft upon request_\]
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent11', this)">▶ Abstract</button>
