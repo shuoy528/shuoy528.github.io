@@ -119,7 +119,7 @@ This paper analyzes the management strategies employed by Michigan highbush blue
 </div>
 
 **Siting Solar on Farms: Land Use Tradeoffs and Agricultural Impacts**
-with [Sara Johns](https://are.berkeley.edu/user/13859) \[_Data Analysis stage_\]
+with [Sara Johns](https://are.berkeley.edu/people/sara-johns) \[_Data Analysis stage_\]
 
 Funded by a Giannini Mini-Grant ($30,000), an ARE Data Grant ($897), and an ARE Graduate Student Travel Grant ($1,500).
 
