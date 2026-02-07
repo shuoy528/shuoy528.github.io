@@ -97,7 +97,7 @@ Government intervention in insurance markets, such as flood, wildfire, and crop 
 </div>
 
 **Paying Smallholder Farmers to Increase Carbon Sequestration by Changing Agricultural Practices: Evidence from Odisha**  
-with [Aprajit Mahajan](https://are.berkeley.edu/~aprajit/), [Liz Saunders](https://www.linkedin.com/in/liz-saunders-72a717170/), and [Sayantan Mitra](https://sites.google.com/view/sunnymitra/). \[_Pilot completed; RCT in progress_\]
+with [Aprajit Mahajan](https://www.ocf.berkeley.edu/~apmah/), [Liz Saunders](https://are.berkeley.edu/people/liz-saunders), and [Sayantan Mitra](https://sites.google.com/view/sunnymitra/). \[_Pilot completed; RCT in progress_\]
 
 [`AEA RCT Registry`](https://www.socialscienceregistry.org/trials/17274)
 
