@@ -109,7 +109,7 @@ This project incentivizes smallholder farmers in rural India to adopt agricultur
 </div>
 
 **Optimal Management of Spotted Wing Drosophila in U.S. Blueberry Production: A Dynamic Structural Model with Unobserved Heterogeneity**
-with [Miguel I. Gómez](http://gomez.dyson.cornell.edu/), [Philip Fanning](https://sbe.umaine.edu/philip-fanning/), [Rufus Isaacs](https://www.canr.msu.edu/people/rufus_isaacs), [Sergio Puerto Gonzalez](https://www.sergiopuerto.com/), and [C.-Y. Cynthia Lin Lawell](https://clinlawell.dyson.cornell.edu/). \[_Model development and empirical analysis in progress_\]
+with [Miguel I. Gómez](http://gomez.dyson.cornell.edu/), [Philip Fanning](https://sbe.umaine.edu/philip-fanning/), [Rufus Isaacs](https://www.canr.msu.edu/people/rufus_isaacs), [Sergio Puerto Gonzalez](https://cega.berkeley.edu/person/22411/), and [C.-Y. Cynthia Lin Lawell](https://clinlawell.dyson.cornell.edu/). \[_Model development and empirical analysis in progress_\]
 
 Funded by a Giannini Mini-Grant ($35,000) and the [USDA Specialty Crop Research Initiative](https://swdmanagement.org/) ($10,000).
 
