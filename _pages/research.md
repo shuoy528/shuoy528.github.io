@@ -99,6 +99,8 @@ Government intervention in insurance markets, such as flood, wildfire, and crop 
 **Paying Smallholder Farmers to Increase Carbon Sequestration by Changing Agricultural Practices: Evidence from Odisha**  
 with [Aprajit Mahajan](https://are.berkeley.edu/~aprajit/), [Liz Saunders](https://www.linkedin.com/in/liz-saunders-72a717170/), and [Sayantan Mitra](https://sites.google.com/view/sunnymitra/). \[_Pilot completed; RCT in progress_\]
 
+[`AEA RCT Registry`](https://www.socialscienceregistry.org/trials/17274)
+
 Funded by JPAL K-CAI ($225,000), Weiss ($49,911), [ATAI Pilot Grant](https://www.atai-research.org/project/studying-the-effect-of-adopting-regenerative-agriculture-practices-on-smallholder-farmer-livelihoods/) ($74,830), [K-CAI Pilot Grant](https://www.povertyactionlab.org/initiative-project/paying-smallholder-farmers-increase-carbon-sequestration-changing-agricultural) ($74,991), CGIAR ($50,452), PEDL ERG (£35,480), and [CEGA](https://cega.berkeley.edu/collection/studying-the-effect-of-adopting-regenerative-agriculture-practices-on-smallholder-farmer-livelihoods/) ($8,027).
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent4', this)">▶ Abstract</button>
