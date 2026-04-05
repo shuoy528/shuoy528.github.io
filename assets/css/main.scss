@@ -40,7 +40,6 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.author__content h3,
-.author__content p {
-  margin-left: 15px !important;
+.sidebar .author__content {
+  padding-left: 50px;
 }
