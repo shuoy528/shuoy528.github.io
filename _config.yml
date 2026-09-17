@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Shuo Yu"
 title_separator          : "-"
 name                     : &name "Shuo Yu"
 description              : &description "Postdoctoral Associate, Dyson School, Cornell University"
