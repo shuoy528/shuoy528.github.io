@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shuo's Homepage"
+title                    : "Shuo Yu"
 title_separator          : "-"
 name                     : &name "Shuo Yu"
 description              : &description "Postdoctoral Associate, Dyson School, Cornell University"
-URL                      : "https://shuoy528.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://shuoy528.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shuoy528/shuoy528.github.io"
 
@@ -302,7 +302,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
