@@ -17,7 +17,7 @@ This study estimates the effectiveness of the U.S. Department of Agriculture’s
 
 ## Working Papers
 
-**Short-Term Impact of the Trade War on U.S. Agricultural Commodities Futures Prices** \[_Draft upon request_\]
+**[Short-Term Impact of the Trade War on U.S. Agricultural Commodities Futures Prices](https://drive.google.com/file/d/1BZSi7uYi28CJsdv52WIxTCWtiyWj4lB4/view?usp=sharing)**
 
 Funded by a Giannini Mini-Grant ($30,000).
 
