@@ -1,5 +1,10 @@
+{% comment %}
+  Opens and closes an entry's abstract when its Abstract button is clicked.
+  Keep comments out of the <script> itself: when the site is published, the
+  theme squeezes each page onto one line, so a // comment there would turn
+  the rest of the script into a comment and the buttons would stop working.
+{% endcomment %}
 <script>
-  // Opens and closes an entry's abstract when its Abstract button is clicked.
   document.addEventListener('click', function (event) {
     var button = event.target.closest('.entry__toggle');
     if (!button) return;
