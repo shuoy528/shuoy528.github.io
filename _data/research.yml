@@ -23,16 +23,17 @@ sections:
         url: 'https://drive.google.com/file/d/1Bq7Be34EbIwvL-ZUy3KJ08IRafcRE64f/view?usp=sharing'
         funding: 'Funded by a Giannini Mini-Grant ($30,000).'
         abstract: >-
-          This study estimates the effectiveness of the U.S. Department of Agriculture’s
-          Environmental Quality Incentives Program (EQIP) cover crop subsidies to mitigate water
-          pollution from agricultural runoff and leaching. The study uses a novel
-          satellite-derived dataset of field-level cover crop adoption and exploits
-          quasi-experimental variation from the geographically and temporally varying
-          implementation of EQIP’s Mississippi River Basin Healthy Watersheds Initiative
-          (EQIP–MRBI). Event-study results show that MRBI funding raises cover crop adoption by
-          34% above baseline, with persistent effects. Linking the satellite adoption data to
-          water quality records, the study finds that a one-percentage-point increase in upstream
-          adoption reduces total nitrogen by 0.83%. The implied benefit-cost ratio is 2.52.
+          This study estimates the effectiveness of the U.S. Department of Agriculture’s Environmental 
+          Quality Incentives Program (EQIP) cover crop subsidies to mitigate water
+          pollution from agricultural runoff and leaching. The study uses a novel satellite derived
+          dataset of field level cover crop adoption and exploits quasi-experimental variation
+          from the geographically and temporally varying implementation of EQIP’s Mississippi
+          River Basin Healthy Watersheds Initiative (EQIP–MRBI). Event study results show
+          that MRBI funding raises cover crop adoption by 34% above baseline, with persistent
+          effects. Linking the satellite adoption data to water quality records, the study finds
+          that a one-percentage-point increase in upstream adoption reduces total nitrogen by
+          0.83%. The implied benefit-cost ratio is 2.52, suggesting that conservation subsidies 
+          can generate substantial environmental benefits even when many payments are nonadditional.
 
   - heading: 'Working Papers'
     papers:
@@ -162,27 +163,27 @@ sections:
           provide insights into the effectiveness of various management strategies and their
           implications for economic outcomes in the agricultural sector.
 
-      - title: 'Siting Solar on Farms: Land Use Tradeoffs and Agricultural Impacts'
-        authors: 'with [Sara Johns](https://are.berkeley.edu/people/sara-johns)'
-        status: 'Data analysis stage'
-        funding: 'Funded by a Giannini Mini-Grant ($30,000), an ARE Data Grant ($897), and an ARE Graduate Student Travel Grant ($1,500).'
-        abstract: >-
-          This study examines the determinants of farmland conversion to solar energy production
-          amid the Biden administration’s target to eliminate fossil fuel electricity generation
-          by 2035. Using data from Illinois’s 2019 community solar lottery under the Adjustable
-          Block Program, which randomly selected projects from an oversubscribed pool of solar
-          applications, we analyze the characteristics of fields and farmers who agreed to lease
-          agricultural land for solar development. We combine project-level information with
-          spatial data on land productivity, climate risk, and infrastructure access to estimate
-          how economic and environmental factors influence farmers’ leasing decisions.
-          Fixed-effects and instrumental-variable models show that a 10% increase in lease price
-          raises the probability of leasing by 4%, while a 10% increase in field productivity
-          reduces it by 28%. Moreover, farmers facing greater climate variability—proxied by a 10%
-          increase in extreme heat days or excessive rainfall—are 11% and 15% more likely,
-          respectively, to lease their land for solar projects. These findings highlight the
-          central roles of economic incentives, land quality, and climate risk in shaping
-          renewable energy expansion on agricultural land, with implications for the design of
-          policies that balance renewable energy development and farmland conservation.
+#      - title: 'Siting Solar on Farms: Land Use Tradeoffs and Agricultural Impacts'
+#        authors: 'with [Sara Johns](https://are.berkeley.edu/people/sara-johns)'
+#        status: 'Data analysis stage'
+#        funding: 'Funded by a Giannini Mini-Grant ($30,000), an ARE Data Grant ($897), and an ARE Graduate Student Travel Grant ($1,500).'
+#        abstract: >-
+#          This study examines the determinants of farmland conversion to solar energy production
+#          amid the Biden administration’s target to eliminate fossil fuel electricity generation
+#          by 2035. Using data from Illinois’s 2019 community solar lottery under the Adjustable
+#          Block Program, which randomly selected projects from an oversubscribed pool of solar
+#          applications, we analyze the characteristics of fields and farmers who agreed to lease
+#          agricultural land for solar development. We combine project-level information with
+#          spatial data on land productivity, climate risk, and infrastructure access to estimate
+#          how economic and environmental factors influence farmers’ leasing decisions.
+#          Fixed-effects and instrumental-variable models show that a 10% increase in lease price
+#          raises the probability of leasing by 4%, while a 10% increase in field productivity
+#          reduces it by 28%. Moreover, farmers facing greater climate variability—proxied by a 10%
+#          increase in extreme heat days or excessive rainfall—are 11% and 15% more likely,
+#          respectively, to lease their land for solar projects. These findings highlight the
+#          central roles of economic incentives, land quality, and climate risk in shaping
+#          renewable energy expansion on agricultural land, with implications for the design of
+#          policies that balance renewable energy development and farmland conservation.
 
       - title: 'Cover Crop Detection in the Midwest with Satellite Data'
         authors: 'with [Kangogo Sogomo](https://kangogosogomo.com/), [Yanghui Kang](https://yanghuikang.github.io/), [Lawson Connor](https://agribusiness.uark.edu/directory/index/uid/lconnor/name/Lawson+Connor/), [Brookie Guzder-Williams](https://dse.berkeley.edu/people/brookie-guzder-williams), and [Timothy Bowles](https://bowleslab.netlify.app/)'
