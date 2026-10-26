@@ -1,0 +1,23 @@
+---
+title: "Teaching"
+layout: single
+permalink: /teaching/
+hide_title: true   # keeps "Teaching" in the browser tab but not as a heading on the page
+---
+{% comment %}
+  The courses and programs on this page are listed in _data/teaching.yml.
+  Edit that file to add or update an item; this page only lays them out.
+{% endcomment %}
+{% for section in site.data.teaching.sections %}
+{%- assign section_id = section.heading | slugify -%}
+<section class="listing" id="{{ section_id }}">
+  <h2 class="listing__heading">{{ section.heading }}</h2>
+  {%- if section.subheading %}
+  <p class="listing__sub">{{ section.subheading }}</p>
+  {%- endif %}
+  {%- for item in section.items %}
+  {%- capture entry_id %}{{ section_id }}-{{ forloop.index }}{% endcapture %}
+  {% include entry.html entry=item id=entry_id %}
+  {%- endfor %}
+</section>
+{% endfor %}

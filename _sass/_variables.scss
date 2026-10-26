@@ -101,12 +101,23 @@ $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
 
+/* site accent (blue) */
+$accent-blue                : #1d5b9a;
+$accent-blue-dark           : #13406f;
+$accent-blue-tint           : #eef4fa;
+$accent-blue-line           : #c5d7ea;
+$title-ink                  : #1f2933;
+$meta-color                 : #5f6a75;
+
+/* serif used for paper, course and section titles */
+$title-serif                : "Source Serif 4", Georgia, "Times New Roman", serif;
+
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
+$link-color                 : $accent-blue;
+$link-color-hover           : $accent-blue-dark;
+$link-color-visited         : $accent-blue;
 $masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color-hover  : $accent-blue;
 
 
 /*

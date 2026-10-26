@@ -1,0 +1,12 @@
+<script>
+  // Opens and closes an entry's abstract when its Abstract button is clicked.
+  document.addEventListener('click', function (event) {
+    var button = event.target.closest('.entry__toggle');
+    if (!button) return;
+    var panel = document.getElementById(button.getAttribute('aria-controls'));
+    if (!panel) return;
+    var isOpen = button.getAttribute('aria-expanded') === 'true';
+    button.setAttribute('aria-expanded', isOpen ? 'false' : 'true');
+    panel.hidden = isOpen;
+  });
+</script>
