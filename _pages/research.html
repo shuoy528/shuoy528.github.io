@@ -1,0 +1,21 @@
+---
+title: "Research"
+layout: single
+permalink: /research/
+hide_title: true   # keeps "Research" in the browser tab but not as a heading on the page
+---
+{% comment %}
+  The papers on this page are listed in _data/research.yml.
+  Edit that file to add, remove or update a paper; this page only lays them out.
+{% endcomment %}
+{% for section in site.data.research.sections %}
+{%- assign section_id = section.heading | slugify -%}
+<section class="listing" id="{{ section_id }}">
+  <h2 class="listing__heading">{{ section.heading }}</h2>
+  {%- for paper in section.papers %}
+  {%- capture entry_id %}{{ section_id }}-{{ forloop.index }}{% endcapture %}
+  {% include entry.html entry=paper id=entry_id featured=section.featured %}
+  {%- endfor %}
+</section>
+{% endfor %}
+{% include abstract-toggle.html %}

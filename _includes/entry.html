@@ -1,0 +1,45 @@
+{% comment %}
+  One entry on the Research or Teaching page (a paper, course or program).
+  Content lives in _data/research.yml and _data/teaching.yml; this file only
+  decides how an entry looks. Parameters:
+    entry     the item from the data file
+    id        a unique id, used to connect the Abstract button to its text
+    featured  true for the highlighted panel (job market paper)
+{% endcomment %}
+{%- assign e = include.entry -%}
+<article class="entry{% if include.featured %} entry--featured{% endif %}">
+  <h3 class="entry__title">
+    {%- if e.url -%}<a href="{{ e.url }}">{{ e.title | escape }}</a>{%- else -%}{{ e.title | escape }}{%- endif -%}
+  </h3>
+  {%- if e.authors %}
+  <p class="entry__authors">{{ e.authors | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
+  {%- endif %}
+  {%- if e.meta %}
+  <p class="entry__meta">{{ e.meta | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
+  {%- endif %}
+  {%- if e.venue %}
+  <p class="entry__venue">{{ e.venue | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
+  {%- endif %}
+  {%- if e.status %}
+  <p class="entry__status">{{ e.status | escape }}</p>
+  {%- endif %}
+  {%- if e.funding %}
+  <p class="entry__funding">{{ e.funding | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
+  {%- endif %}
+  {%- if e.note %}
+  <p class="entry__note">{{ e.note | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
+  {%- endif %}
+  {%- if e.abstract or e.links %}
+  <div class="entry__actions">
+    {%- if e.abstract %}
+    <button type="button" class="entry__btn entry__toggle" aria-expanded="false" aria-controls="abstract-{{ include.id }}">Abstract</button>
+    {%- endif %}
+    {%- for link in e.links %}
+    <a class="entry__btn" href="{{ link.url }}">{{ link.label | escape }}</a>
+    {%- endfor %}
+  </div>
+  {%- endif %}
+  {%- if e.abstract %}
+  <div class="entry__abstract" id="abstract-{{ include.id }}" hidden>{{ e.abstract | markdownify }}</div>
+  {%- endif %}
+</article>
